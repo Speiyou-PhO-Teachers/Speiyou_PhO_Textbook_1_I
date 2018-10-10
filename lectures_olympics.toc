@@ -1,0 +1,209 @@
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}序言---写在前面}{9}{chapter.1}
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}运动学}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}运动物体的抽象：质点}{13}{section.2.1}
+\contentsline {section}{\numberline {2.2}最简单的运动：一维运动}{14}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}运动的快慢：速率}{17}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}图像详解}{20}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}加速度，匀加速运动}{23}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}落体运动}{26}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}高维运动，位移，速度}{29}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}位置的确定：坐标系}{29}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}位置的变化：位移}{31}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}具有大小的方向的物理量：矢量}{32}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}运动的快慢：速度}{35}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}速度的变化：加速度}{38}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}抛体运动}{39}{section.2.4}
+\contentsline {section}{\numberline {2.5}圆周运动}{48}{section.2.5}
+\contentsline {section}{\numberline {2.6}平面内的曲线运动}{58}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}固定坐标系}{58}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}自然坐标系}{63}{subsection.2.6.2}
+\contentsline {section}{\numberline {2.7}天体运动：太阳系的运行}{68}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}开普勒第一定律：椭圆}{69}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}开普勒第二定律}{71}{subsection.2.7.2}
+\contentsline {subsection}{\numberline {2.7.3}开普勒第三定律}{76}{subsection.2.7.3}
+\contentsline {section}{\numberline {2.8}相对运动，参考系}{79}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}在不同坐标系中描写运动}{79}{subsection.2.8.1}
+\contentsline {subsection}{\numberline {2.8.2}相对运动中的矢量运算}{85}{subsection.2.8.2}
+\contentsline {section}{\numberline {2.9}受约束的运动}{88}{section.2.9}
+\contentsline {section}{\numberline {2.10}刚体运动}{92}{section.2.10}
+\contentsline {section}{\numberline {2.11}流体运动}{96}{section.2.11}
+\contentsline {section}{\numberline {2.12}运动学综合}{100}{section.2.12}
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}静力学}{105}{chapter.3}
+\contentsline {section}{\numberline {3.1}力的基本性质}{105}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}重力}{106}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}弹力}{108}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}滑动摩擦力、静摩擦力}{109}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}受力分析}{110}{section.3.2}
+\contentsline {section}{\numberline {3.3}静力平衡}{112}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}是否滑动？}{117}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}有质量绳的情况}{119}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}平衡的稳定性}{123}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}牛顿运动定律及应用}{127}{chapter.4}
+\contentsline {section}{\numberline {4.1}三大运动定律}{127}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}第一定律：惯性}{127}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}第二定律：加速}{128}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}第三定律：相互作用}{133}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}应用}{135}{section.4.2}
+\contentsline {section}{\numberline {4.3}非惯性系中的运动}{143}{section.4.3}
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}动量定理、动量守恒}{149}{chapter.5}
+\contentsline {section}{\numberline {5.1}动量定理}{149}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}单个物体的动力学}{150}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}多个物体的运动}{151}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}冲击和碰撞}{153}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}应用到流体}{155}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}质量变化的情况}{157}{subsection.5.1.5}
+\contentsline {section}{\numberline {5.2}动量守恒}{159}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}总动量守恒}{160}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}动量的分量守恒}{160}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}冲击、碰撞过程中的动量守恒}{161}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}质心参考系}{162}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}变质量系统，火箭}{164}{section.5.3}
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}功和动能，机械能守恒}{167}{chapter.6}
+\contentsline {section}{\numberline {6.1}功，动能定理}{167}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}功和动能的确定}{168}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}多个物体的情况}{170}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}不同参考系中的动能定理}{171}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}功与力的关系：虚功原理初步}{172}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}变力作功}{173}{subsection.6.1.5}
+\contentsline {section}{\numberline {6.2}势能、能量守恒定律}{173}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}重力作用下物体的运动}{174}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}保守力、势能}{177}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}质点系统的机械能守恒}{179}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}机械能的损失：摩擦}{181}{subsection.6.3.1}
+\contentsline {section}{\numberline {6.4}能量的转化与守恒定律}{182}{section.6.4}
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}角动量、力矩和角动量守恒}{183}{chapter.7}
+\contentsline {section}{\numberline {7.1}有心力作用下的平面运动}{183}{section.7.1}
+\contentsline {section}{\numberline {7.2}力矩，角动量}{184}{section.7.2}
+\contentsline {section}{\numberline {7.3}角动量守恒定律}{186}{section.7.3}
+\contentsline {section}{\numberline {7.4}质点系统的角动量守恒}{188}{section.7.4}
+\contentsline {chapter}{\numberline {第八章\hspace {.3em}}万有引力理论}{191}{chapter.8}
+\contentsline {section}{\numberline {8.1}万有引力的发现}{191}{section.8.1}
+\contentsline {section}{\numberline {8.2}不能看做质点物体之间的引力}{193}{section.8.2}
+\contentsline {section}{\numberline {8.3}万有引力定律的一些结论}{194}{section.8.3}
+\contentsline {section}{\numberline {8.4}引力作用下的运动：功、势能和角动量}{196}{section.8.4}
+\contentsline {section}{\numberline {8.5}一些数学：椭圆和圆椎曲线}{199}{section.8.5}
+\contentsline {section}{\numberline {8.6}航天器的轨道}{202}{section.8.6}
+\contentsline {section}{\numberline {8.7}引力作用下的天体运动}{204}{section.8.7}
+\contentsline {section}{\numberline {8.8}地-月系统}{204}{section.8.8}
+\contentsline {chapter}{\numberline {第九章\hspace {.3em}}振动和波}{207}{chapter.9}
+\contentsline {section}{\numberline {9.1}简谐振动}{207}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}单摆}{212}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}微幅振动}{214}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.3}阻尼、受迫振动，共振}{216}{subsection.9.1.3}
+\contentsline {section}{\numberline {9.2}波}{217}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}波的性质}{218}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}波的干涉和衍射}{222}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}多普勒效应}{225}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}波的动力学}{227}{subsection.9.2.4}
+\contentsline {chapter}{\numberline {第十章\hspace {.3em}}刚体动力学}{231}{chapter.10}
+\contentsline {section}{\numberline {10.1}刚体运动的描写}{231}{section.10.1}
+\contentsline {section}{\numberline {10.2}转动惯量}{235}{section.10.2}
+\contentsline {section}{\numberline {10.3}刚体动力学}{238}{section.10.3}
+\contentsline {chapter}{\numberline {第十一章\hspace {.3em}}热力学}{245}{chapter.11}
+\contentsline {section}{\numberline {11.1}分子动理论}{245}{section.11.1}
+\contentsline {section}{\numberline {11.2}理想气体的性质}{247}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}理想气体状态方程}{247}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}理想气体状态方程的微观解释}{252}{subsection.11.2.2}
+\contentsline {subsection}{\numberline {11.2.3}气体的内能}{254}{subsection.11.2.3}
+\contentsline {subsection}{\numberline {11.2.4}气体的作功}{255}{subsection.11.2.4}
+\contentsline {section}{\numberline {11.3}热力学第一定律}{256}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}热力学中的能量转化与守恒}{256}{subsection.11.3.1}
+\contentsline {subsection}{\numberline {11.3.2}气体绝热过程}{261}{subsection.11.3.2}
+\contentsline {subsection}{\numberline {11.3.3}热力学循环的效率}{263}{subsection.11.3.3}
+\contentsline {section}{\numberline {11.4}复杂气体过程}{266}{section.11.4}
+\contentsline {section}{\numberline {11.5}热力学第二定律简介}{268}{section.11.5}
+\contentsline {section}{\numberline {11.6}液体表面张力、毛细现象}{270}{section.11.6}
+\contentsline {section}{\numberline {11.7}固体知识简介}{273}{section.11.7}
+\contentsline {section}{\numberline {11.8}相变}{273}{section.11.8}
+\contentsline {section}{\numberline {11.9}热传递}{278}{section.11.9}
+\contentsline {chapter}{\numberline {第十二章\hspace {.3em}}几何光学}{281}{chapter.12}
+\contentsline {section}{\numberline {12.1}光的反射}{281}{section.12.1}
+\contentsline {section}{\numberline {12.2}折射与全反射}{283}{section.12.2}
+\contentsline {subsection}{\numberline {12.2.1}折射定律(Law of Refraction)}{284}{subsection.12.2.1}
+\contentsline {subsection}{\numberline {12.2.2}全反射}{286}{subsection.12.2.2}
+\contentsline {section}{\numberline {12.3}光线传播的一般规律：惠更斯-菲涅尔原理和费马原理}{288}{section.12.3}
+\contentsline {section}{\numberline {12.4}近轴成像}{290}{section.12.4}
+\contentsline {section}{\numberline {12.5}常见成像系统与符号法则}{292}{section.12.5}
+\contentsline {section}{\numberline {12.6}球面镜、透镜成像}{294}{section.12.6}
+\contentsline {section}{\numberline {12.7}光具组成像}{297}{section.12.7}
+\contentsline {section}{\numberline {12.8}光学仪器}{302}{section.12.8}
+\contentsline {chapter}{\numberline {第十三章\hspace {.3em}}微积分在物理当中的应用}{307}{chapter.13}
+\contentsline {section}{\numberline {13.1}导数及其应用}{307}{section.13.1}
+\contentsline {subsection}{\numberline {13.1.1}物理量的变化率}{309}{subsection.13.1.1}
+\contentsline {subsection}{\numberline {13.1.2}求极值}{311}{subsection.13.1.2}
+\contentsline {subsection}{\numberline {13.1.3}求稳定点和稳定性}{313}{subsection.13.1.3}
+\contentsline {subsection}{\numberline {13.1.4}做展开}{316}{subsection.13.1.4}
+\contentsline {section}{\numberline {13.2}积分及其应用}{319}{section.13.2}
+\contentsline {chapter}{\numberline {第十四章\hspace {.3em}}静电学}{329}{chapter.14}
+\contentsline {section}{\numberline {14.1}电荷及其微观解释、电荷守恒}{329}{section.14.1}
+\contentsline {section}{\numberline {14.2}静电相互作用力，电场}{330}{section.14.2}
+\contentsline {subsection}{\numberline {14.2.1}库仑定律}{330}{subsection.14.2.1}
+\contentsline {subsection}{\numberline {14.2.2}电场、电场强度和电力线}{333}{subsection.14.2.2}
+\contentsline {subsection}{\numberline {14.2.3}静电场的高斯定理}{335}{subsection.14.2.3}
+\contentsline {subsection}{\numberline {14.2.4}静电场的环路定理}{338}{subsection.14.2.4}
+\contentsline {section}{\numberline {14.3}静电能、电势、电势差}{338}{section.14.3}
+\contentsline {section}{\numberline {14.4}电偶极子模型}{347}{section.14.4}
+\contentsline {section}{\numberline {14.5}电场中的导体}{347}{section.14.5}
+\contentsline {subsection}{\numberline {14.5.1}电场的唯一性定理，电像法}{351}{subsection.14.5.1}
+\contentsline {section}{\numberline {14.6}电介质、电容}{353}{section.14.6}
+\contentsline {subsection}{\numberline {14.6.1}电容电路}{357}{subsection.14.6.1}
+\contentsline {subsection}{\numberline {14.6.2}绝缘体、电介质与极化}{359}{subsection.14.6.2}
+\contentsline {chapter}{\numberline {第十五章\hspace {.3em}}稳恒电流}{363}{chapter.15}
+\contentsline {section}{\numberline {15.1}电流的微观解释}{363}{section.15.1}
+\contentsline {section}{\numberline {15.2}欧姆定律}{365}{section.15.2}
+\contentsline {section}{\numberline {15.3}简单电路}{366}{section.15.3}
+\contentsline {section}{\numberline {15.4}复杂电路，基尔霍夫定律}{368}{section.15.4}
+\contentsline {section}{\numberline {15.5}电压表、电流表和欧姆表}{368}{section.15.5}
+\contentsline {section}{\numberline {15.6}惠斯通电桥和补偿电路}{369}{section.15.6}
+\contentsline {section}{\numberline {15.7}半导体简介}{369}{section.15.7}
+\contentsline {chapter}{\numberline {第十六章\hspace {.3em}}静磁场}{371}{chapter.16}
+\contentsline {section}{\numberline {16.1}电磁场中带电粒子的运动}{371}{section.16.1}
+\contentsline {section}{\numberline {16.2}磁场中的电流}{379}{section.16.2}
+\contentsline {section}{\numberline {16.3}电流产生的磁场}{384}{section.16.3}
+\contentsline {subsection}{\numberline {16.3.1}安培环路定理}{386}{subsection.16.3.1}
+\contentsline {subsection}{\numberline {16.3.2}磁高斯定理}{386}{subsection.16.3.2}
+\contentsline {chapter}{\numberline {第十七章\hspace {.3em}}电磁感应}{389}{chapter.17}
+\contentsline {section}{\numberline {17.1}电磁感应定律}{389}{section.17.1}
+\contentsline {subsection}{\numberline {17.1.1}动生电动势}{390}{subsection.17.1.1}
+\contentsline {subsection}{\numberline {17.1.2}感生电动势}{396}{subsection.17.1.2}
+\contentsline {section}{\numberline {17.2}自感和互感}{402}{section.17.2}
+\contentsline {subsection}{\numberline {17.2.1}自感现象、自感系数}{402}{subsection.17.2.1}
+\contentsline {subsection}{\numberline {17.2.2}互感现象、互感系数}{406}{subsection.17.2.2}
+\contentsline {section}{\numberline {17.3}超导体的磁效应}{408}{section.17.3}
+\contentsline {chapter}{\numberline {第十八章\hspace {.3em}}交流电路}{413}{chapter.18}
+\contentsline {section}{\numberline {18.1}交流电、交流发电机}{413}{section.18.1}
+\contentsline {section}{\numberline {18.2}交流电路中的电感和电容}{415}{section.18.2}
+\contentsline {section}{\numberline {18.3}交流电路的矢量图解}{418}{section.18.3}
+\contentsline {section}{\numberline {18.4}变压器}{418}{section.18.4}
+\contentsline {section}{\numberline {18.5}*整流、滤波和稳压}{420}{section.18.5}
+\contentsline {chapter}{\numberline {第十九章\hspace {.3em}}电磁场理论，电磁波}{423}{chapter.19}
+\contentsline {section}{\numberline {19.1}麦克斯韦的电磁场理论}{423}{section.19.1}
+\contentsline {section}{\numberline {19.2}电磁波}{426}{section.19.2}
+\contentsline {section}{\numberline {19.3}光的电磁理论}{428}{section.19.3}
+\contentsline {chapter}{\numberline {第二十章\hspace {.3em}}波动光学}{431}{chapter.20}
+\contentsline {section}{\numberline {20.1}干涉}{431}{section.20.1}
+\contentsline {section}{\numberline {20.2}衍射}{441}{section.20.2}
+\contentsline {section}{\numberline {20.3}偏振}{443}{section.20.3}
+\contentsline {chapter}{\numberline {第二十一章\hspace {.3em}}相对论}{447}{chapter.21}
+\contentsline {section}{\numberline {21.1}相对论的发现}{447}{section.21.1}
+\contentsline {section}{\numberline {21.2}新的时空理论}{449}{section.21.2}
+\contentsline {section}{\numberline {21.3}相对论的一些现象}{452}{section.21.3}
+\contentsline {subsection}{\numberline {21.3.1}动钟变慢}{452}{subsection.21.3.1}
+\contentsline {subsection}{\numberline {21.3.2}动尺缩短}{453}{subsection.21.3.2}
+\contentsline {subsection}{\numberline {21.3.3}相对论的速度叠加}{454}{subsection.21.3.3}
+\contentsline {subsection}{\numberline {21.3.4}多普勒效应和光行差}{456}{subsection.21.3.4}
+\contentsline {section}{\numberline {21.4}相对论的动力学}{458}{section.21.4}
+\contentsline {section}{\numberline {21.5}不同参考系中的电磁场}{464}{section.21.5}
+\contentsline {chapter}{\numberline {第二十二章\hspace {.3em}}量子物理初步}{467}{chapter.22}
+\contentsline {section}{\numberline {22.1}黑体辐射：能量的量子化}{467}{section.22.1}
+\contentsline {section}{\numberline {22.2}光量子假设：光电效应，辐射（物质）的量子化}{471}{section.22.2}
+\contentsline {section}{\numberline {22.3}氢原子光谱：轨道（运动）的量子化}{477}{section.22.3}
+\contentsline {section}{\numberline {22.4}波粒二象性：通向微观世界的大门}{480}{section.22.4}
+\contentsline {section}{\numberline {22.5}量子力学，测不准原理}{481}{section.22.5}
+\contentsline {chapter}{\numberline {第二十三章\hspace {.3em}}微元法}{485}{chapter.23}
+\contentsline {section}{\numberline {23.1}小量分析}{485}{section.23.1}
+\contentsline {section}{\numberline {23.2}虚功原理}{487}{section.23.2}
+\contentsline {section}{\numberline {23.3}再论微积分}{491}{section.23.3}
+\contentsline {chapter}{\numberline {第二十四章\hspace {.3em}}题库}{495}{chapter.24}
+\contentsline {section}{\numberline {A}基本常数}{509}{section.a..1}
+\contentsline {section}{\numberline {B}Second appendix}{509}{section.a..2}

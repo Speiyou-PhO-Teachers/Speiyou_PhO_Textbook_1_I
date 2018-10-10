@@ -1,0 +1,4272 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.2.11)  20 JUN 2018 22:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./lectures_olympics.tex
+(./lectures_olympics.tex
+LaTeX2e <2017-04-15>
+Babel <3.17> and hyphenation patterns for 84 language(s) loaded.
+(c:/texlive/2017/texmf-dist/tex/latex/ctex/ctexbook.cls
+(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2017/12/16 L3 programming layer (loader) 
+
+(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2017/12/16 L3 programming layer (code)
+\c_max_int=\count79
+\l_tmpa_int=\count80
+\l_tmpb_int=\count81
+\g_tmpa_int=\count82
+\g_tmpb_int=\count83
+\g__intarray_font_int=\count84
+\g__prg_map_int=\count85
+\c_log_iow=\count86
+\l_iow_line_count_int=\count87
+\l__iow_line_target_int=\count88
+\l__iow_one_indent_int=\count89
+\l__iow_indent_int=\count90
+\c_zero_dim=\dimen102
+\c_max_dim=\dimen103
+\l_tmpa_dim=\dimen104
+\l_tmpb_dim=\dimen105
+\g_tmpa_dim=\dimen106
+\g_tmpb_dim=\dimen107
+\c_zero_skip=\skip41
+\c_max_skip=\skip42
+\l_tmpa_skip=\skip43
+\l_tmpb_skip=\skip44
+\g_tmpa_skip=\skip45
+\g_tmpb_skip=\skip46
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count91
+\c__fp_leading_shift_int=\count92
+\c__fp_middle_shift_int=\count93
+\c__fp_trailing_shift_int=\count94
+\c__fp_big_leading_shift_int=\count95
+\c__fp_big_middle_shift_int=\count96
+\c__fp_big_trailing_shift_int=\count97
+\c__fp_Bigg_leading_shift_int=\count98
+\c__fp_Bigg_middle_shift_int=\count99
+\c__fp_Bigg_trailing_shift_int=\count100
+\l__sort_length_int=\count101
+\l__sort_min_int=\count102
+\l__sort_top_int=\count103
+\l__sort_max_int=\count104
+\l__sort_true_max_int=\count105
+\l__sort_block_int=\count106
+\l__sort_begin_int=\count107
+\l__sort_end_int=\count108
+\l__sort_A_int=\count109
+\l__sort_B_int=\count110
+\l__sort_C_int=\count111
+\l__tl_build_start_index_int=\count112
+\l__tl_build_index_int=\count113
+\l__tl_analysis_normal_int=\count114
+\l__tl_analysis_index_int=\count115
+\l__tl_analysis_nesting_int=\count116
+\l__tl_analysis_type_int=\count117
+\l__regex_internal_a_int=\count118
+\l__regex_internal_b_int=\count119
+\l__regex_internal_c_int=\count120
+\l__regex_balance_int=\count121
+\l__regex_group_level_int=\count122
+\l__regex_mode_int=\count123
+\c__regex_cs_in_class_mode_int=\count124
+\c__regex_cs_mode_int=\count125
+\l__regex_catcodes_int=\count126
+\l__regex_default_catcodes_int=\count127
+\c__regex_catcode_L_int=\count128
+\c__regex_catcode_O_int=\count129
+\c__regex_catcode_A_int=\count130
+\c__regex_all_catcodes_int=\count131
+\l__regex_show_lines_int=\count132
+\l__regex_min_state_int=\count133
+\l__regex_max_state_int=\count134
+\l__regex_left_state_int=\count135
+\l__regex_right_state_int=\count136
+\l__regex_capturing_group_int=\count137
+\l__regex_min_pos_int=\count138
+\l__regex_max_pos_int=\count139
+\l__regex_curr_pos_int=\count140
+\l__regex_start_pos_int=\count141
+\l__regex_success_pos_int=\count142
+\l__regex_curr_char_int=\count143
+\l__regex_curr_catcode_int=\count144
+\l__regex_last_char_int=\count145
+\l__regex_case_changed_char_int=\count146
+\l__regex_curr_state_int=\count147
+\l__regex_step_int=\count148
+\l__regex_min_active_int=\count149
+\l__regex_max_active_int=\count150
+\l__regex_replacement_csnames_int=\count151
+\l__regex_match_count_int=\count152
+\l__regex_min_submatch_int=\count153
+\l__regex_submatch_int=\count154
+\l__regex_zeroth_submatch_int=\count155
+\g__debug_trace_regex_int=\count156
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+\l__box_top_dim=\dimen108
+\l__box_bottom_dim=\dimen109
+\l__box_left_dim=\dimen110
+\l__box_right_dim=\dimen111
+\l__box_top_new_dim=\dimen112
+\l__box_bottom_new_dim=\dimen113
+\l__box_left_new_dim=\dimen114
+\l__box_right_new_dim=\dimen115
+\l__box_internal_box=\box31
+\l__coffin_internal_box=\box32
+\l__coffin_internal_dim=\dimen116
+\l__coffin_offset_x_dim=\dimen117
+\l__coffin_offset_y_dim=\dimen118
+\l__coffin_x_dim=\dimen119
+\l__coffin_y_dim=\dimen120
+\l__coffin_x_prime_dim=\dimen121
+\l__coffin_y_prime_dim=\dimen122
+\c_empty_coffin=\box33
+\l__coffin_aligned_coffin=\box34
+\l__coffin_aligned_internal_coffin=\box35
+\l_tmpa_coffin=\box36
+\l_tmpb_coffin=\box37
+\l__coffin_display_coffin=\box38
+\l__coffin_display_coord_coffin=\box39
+\l__coffin_display_pole_coffin=\box40
+\l__coffin_display_offset_dim=\dimen123
+\l__coffin_display_x_dim=\dimen124
+\l__coffin_display_y_dim=\dimen125
+\l__coffin_bounding_shift_dim=\dimen126
+\l__coffin_left_corner_dim=\dimen127
+\l__coffin_right_corner_dim=\dimen128
+\l__coffin_bottom_corner_dim=\dimen129
+\l__coffin_top_corner_dim=\dimen130
+\l__coffin_scaled_total_height_dim=\dimen131
+\l__coffin_scaled_width_dim=\dimen132
+)
+(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count157
+\l__driver_tmp_box=\box41
+))
+Document Class: ctexbook 2018/01/28 v2.4.12 Chinese adapter for class book (CTE
+X)
+(c:/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2017/12/16 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count158
+\g__xparse_grabber_int=\count159
+\l__xparse_m_args_int=\count160
+\l__xparse_mandatory_args_int=\count161
+\l__xparse_v_nesting_int=\count162
+)
+(c:/texlive/2017/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2017/12/16 LaTeX2e option processing using LaTeX3 keys
+)
+\g__file_internal_ior=\read1
+
+(c:/texlive/2017/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2018/01/28 v2.4.12 Document and package hooks (CTEX)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2018/01/28 v2.4.12 Patching commands (CTEX)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(c:/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+(c:/texlive/2017/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count163
+\l__ctex_tmp_box=\box42
+\l__ctex_tmp_dim=\dimen133
+\g__ctex_font_size_flag=\count164
+
+(c:/texlive/2017/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2018/01/28 v2.4.12 Option configuration file (CTEX)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2017/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count165
+\c@chapter=\count166
+\c@section=\count167
+\c@subsection=\count168
+\c@subsubsection=\count169
+\c@paragraph=\count170
+\c@subparagraph=\count171
+\c@figure=\count172
+\c@table=\count173
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(c:/texlive/2017/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2018/01/28 v2.4.12 XeLaTeX adapter (CTEX)
+
+(c:/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2018/01/28 v3.6.0 Typesetting CJK scripts with XeLaTeX
+
+(c:/texlive/2017/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2017/12/16 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen135
+\l__xtemplate_tmp_int=\count174
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+\l__xeCJK_tmp_int=\count175
+\l__xeCJK_tmp_box=\box43
+\l__xeCJK_tmp_dim=\dimen136
+\l__xeCJK_tmp_skip=\skip50
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKShipoutHook with sig. '' on line 150.
+.................................................
+\g__xeCJK_space_factor_int=\count176
+\l__xeCJK_begin_int=\count177
+\l__xeCJK_end_int=\count178
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \makexeCJKactive with sig. '' on line 391.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \makexeCJKinactive with sig. '' on line 393.
+.................................................
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKDeclareCharClass with sig. 's>{\TrimSpaces }mm' on
+. line 575.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__xeCJK_set_char_class_aux:Nnw with sig.
+. 'm>{\SplitArgument {1}{->}}m' on line 596.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \normalspacedchars with sig. 'm' on line 642.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKResetPunctClass with sig. '' on line 653.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKResetCharClass with sig. '' on line 665.
+.................................................
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count179
+\c__xeCJK_CJK_node_dim=\dimen137
+\c__xeCJK_CJK-space_node_dim=\dimen138
+\c__xeCJK_default_node_dim=\dimen139
+\c__xeCJK_default-space_node_dim=\dimen140
+\c__xeCJK_CJK-widow_node_dim=\dimen141
+\c__xeCJK_normalspace_node_dim=\dimen142
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count180
+\l__xeCJK_last_bound_dim=\dimen143
+\l__xeCJK_last_kern_dim=\dimen144
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKnobreak with sig. '' on line 1881.
+.................................................
+\l__xeCJK_widow_penalty_int=\count181
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKDeclareSubCJKBlock with sig. 's>{\TrimSpaces }mm' on
+. line 2076.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKCancelSubCJKBlock with sig. 'sm' on line 2087.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKRestoreSubCJKBlock with sig. 'sm' on line 2096.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetwidth with sig. 'smm' on line 2194.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetkern with sig. 'mmm' on line 2198.
+.................................................
+.................................................
+. xtemplate info: "declare-object-type"
+. 
+. Declaring object type 'xeCJK/punctuation' taking 0 argument(s) on line 2343.
+.................................................
+\l__xeCJK_fixed_punct_width_dim=\dimen145
+\l__xeCJK_mixed_punct_width_dim=\dimen146
+\l__xeCJK_middle_punct_width_dim=\dimen147
+\l__xeCJK_fixed_margin_width_dim=\dimen148
+\l__xeCJK_mixed_margin_width_dim=\dimen149
+\l__xeCJK_middle_margin_width_dim=\dimen150
+\l__xeCJK_bound_punct_width_dim=\dimen151
+\l__xeCJK_bound_margin_width_dim=\dimen152
+\l__xeCJK_margin_minimum_dim=\dimen153
+\l__xeCJK_kerning_total_width_dim=\dimen154
+\l__xeCJK_same_align_margin_dim=\dimen155
+\l__xeCJK_different_align_margin_dim=\dimen156
+\l__xeCJK_kerning_margin_width_dim=\dimen157
+\l__xeCJK_kerning_margin_minimum_dim=\dimen158
+\l__xeCJK_bound_dim=\dimen159
+\l__xeCJK_reverse_bound_dim=\dimen160
+\l__xeCJK_minimum_bound_dim=\dimen161
+\l__xeCJK_kerning_margin_dim=\dimen162
+\l__xeCJK_original_margin_dim=\dimen163
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKDeclarePunctStyle with sig. '>{\TrimSpaces }mm' on
+. line 2899.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKEditPunctStyle with sig. '>{\TrimSpaces }mm' on line
+. 2912.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKfallbackfamilyfont with sig. 'mom' on line 3016.
+.................................................
+\g__xeCJK_family_int=\count182
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKfamily with sig. 't+t-m' on line 3450.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__xeCJK_gobble_CJKfamily:wn with sig. 't+t-m' on line
+. 3515.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__xeCJK_post_arg:w with sig. 'mmmO{}' on line 3575.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKmainfont with sig. 'om' on line 3581.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKsansfont with sig. 'om' on line 3588.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKmonofont with sig. 'om' on line 3594.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKfamilyfont with sig. 'mom' on line 3605.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newCJKfontfamily with sig. 'omom' on line 3615.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKfontspec with sig. 'om' on line 3621.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultCJKfontfeatures with sig. 'm' on line 3644.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addCJKfontfeatures with sig. 'sO{}m' on line 3650.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKmathfont with sig. 'om' on line 3827.
+.................................................
+\l__xeCJK_fam_int=\count183
+\g__xeCJK_fam_allocation_int=\count184
+\l__xeCJK_verb_case_int=\count185
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKVerbAddon with sig. '' on line 4074.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKOffVerbAddon with sig. '' on line 4078.
+.................................................
+\l__xeCJK_verb_exspace_skip=\skip55
+
+(c:/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count186
+\l__fontspec_language_int=\count187
+\l__fontspec_strnum_int=\count188
+\l__fontspec_tmp_int=\count189
+\l__fontspec_em_int=\count190
+\l__fontspec_emdef_int=\count191
+\l__fontspec_strong_int=\count192
+\l__fontspec_strongdef_int=\count193
+\l__fontspec_tmpa_dim=\dimen164
+\l__fontspec_tmpb_dim=\dimen165
+\l__fontspec_tmpc_dim=\dimen166
+
+(c:/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(c:/texlive/2017/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 542.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 546.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 550.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 554.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 558.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 562.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 570.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 574.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 578.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 582.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 586.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 590.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeature with sig. 'm' on line 594.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 598.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 602.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 606.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newICUfeature with sig. 'mmm' on line 610.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 614.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 618.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 622.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 626.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 630.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 634.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3632.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3638.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3644.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3650.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3656.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3681.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3687.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareAccent with sig. 'm' on line 3693.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareCommand with sig. 'm' on line 3699.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3706.
+.................................................
+
+(c:/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3891.
+LaTeX Info: Redefining \slshape on input line 3896.
+LaTeX Info: Redefining \scshape on input line 3901.
+LaTeX Info: Redefining \upshape on input line 3906.
+LaTeX Info: Redefining \em on input line 3936.
+LaTeX Info: Redefining \emph on input line 3961.
+LaTeX Info: Redefining \- on input line 4015.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 4110.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 4114.
+.................................................
+))
+(c:/texlive/2017/texmf-dist/tex/xelatex/xecjk/xunicode-addon.sty
+Package: xunicode-addon 2018/01/28 v3.6.0 addon file for xunicode
+
+(c:/texlive/2017/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(c:/texlive/2017/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+)
+\tipaTiiicode=\count194
+\tipasavetokens=\toks14
+\tipachecktokens=\toks15
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen167
+\Gin@req@width=\dimen168
+))
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \ReloadXunicode with sig. 'm' on line 82.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \DeclareUTFmathsymbols with sig. 'm' on line 127.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \UseMathAsText with sig. '' on line 136.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \UndeclareUTFcharacter with sig. 'O{\UTFencname }mm' on
+. line 171.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \UndeclareUTFcomposite with sig. 'O{\UTFencname }mmm' on
+. line 178.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \DeclareUTFcharacter with sig. 'O{\UTFencname }mm' on
+. line 205.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFSymbol with sig. 'mO{\UTFencname }m' on line
+. 231.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFCommand with sig. 'mO{\UTFencname }m' on line
+. 233.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \DeclareUTFcomposite with sig. 'O{\UTFencname }mmm' on
+. line 274.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFCompositeCommand with sig. 'mO{\UTFencname }mm'
+. on line 287.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFCompositeSymbol with sig. 'mO{\UTFencname }mm'
+. on line 292.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFComposite with sig. 'mO{\UTFencname }' on line
+. 294.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFEncodedAccent with sig. 'mO{\UTFencname }mm' on
+. line 296.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFEncodedAccents with sig. 'mO{\UTFencname }mm' on
+. line 298.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFEncodedSymbol with sig. 'mO{\UTFencname }mm' on
+. line 300.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFEncodedCircle with sig. 'mO{\UTFencname }mm' on
+. line 302.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \DeclareEncodedCompositeCharacter with sig. 'mmmm' on
+. line 304.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \DeclareEncodedCompositeAccents with sig. 'mmmm' on line
+. 306.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFDoubleEncodedAccent with sig. 'mO{\UTFencname
+. }mm' on line 308.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFDoubleEncodedSymbol with sig. 'mO{\UTFencname
+. }mm' on line 310.
+.................................................
+\l__xunadd_tmp_coffin=\box44
+\l__xunadd_circle_coffin=\box45
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \settextcircledratio with sig. 'm' on line 459.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \AtBeginUTFCommand with sig. 'sO{}+m' on line 528.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \AtEndUTFCommand with sig. 'sO{}+m' on line 538.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFTIPACommand with sig. 'O{\UTFencname }m' on line
+. 570.
+.................................................
+)
+(c:/texlive/2017/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+*** Reloading Xunicode for encoding 'TU' ***
+) (c:/texlive/2017/texmf-dist/tex/xelatex/xecjk/xunicode-extra.def
+File: xunicode-extra.def 2018/01/28 v3.6.0 extra definition for xunicode
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetup with sig. '+m' on line 4380.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetemboldenfactor with sig. 'm' on line 4382.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetslantfactor with sig. 'm' on line 4384.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \punctstyle with sig. 'm' on line 4385.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKplainchr with sig. '' on line 4386.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKsetecglue with sig. 'm' on line 4387.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKspace with sig. '' on line 4389.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKnospace with sig. '' on line 4390.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKallowbreakbetweenpuncts with sig. '' on line 4392.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKnobreakbetweenpuncts with sig. '' on line 4394.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKenablefallback with sig. '' on line 4396.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKdisablefallback with sig. '' on line 4398.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetcharclass with sig. 'mmm' on line 4403.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \nobreakspace with sig. '' on line 4549.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \fontfamily with sig. 'm' on line 4589.
+.................................................
+
+(c:/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2018/01/28 v3.6.0 Configuration file for xeCJK package
+))
+(c:/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2018/01/28 v3.6.0 xeCJK font effect
+
+(c:/texlive/2017/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box46
+\UL@hyphenbox=\box47
+\UL@skip=\skip56
+\UL@hook=\toks17
+\UL@height=\dimen169
+\UL@pe=\count195
+\UL@pixel=\dimen170
+\ULC@box=\box48
+Package: ulem 2012/05/18
+\ULdepth=\dimen171
+)
+(c:/texlive/2017/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(c:/texlive/2017/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks18
+)
+(c:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+\CJK@fntefSkip=\skip57
+\CJK@nest=\count196
+\CJK@fntefDimen=\dimen172
+\CJK@underdotBox=\box49
+\CJK@ULbox=\box50
+\CJK@underanyskip=\dimen173
+)
+\l__xeCJK_space_skip=\skip58
+\c__xeCJK_ulem-begin_node_dim=\dimen174
+\c__xeCJK_null_box=\box51
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKfntefon with sig. 'st-so' on line 657.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderline with sig. 'st-so' on line 673.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \varCJKunderline with sig. '' on line 675.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderwave with sig. 'st-so' on line 685.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderdblline with sig. 'st-so' on line 709.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKsout with sig. 'st-so' on line 728.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKxout with sig. 'st-so' on line 745.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderanyline with sig. 'st-somm' on line 766.
+.................................................
+\l__xeCJK_fntef_box=\box52
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderanysymbol with sig. 'ommm' on line 940.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderdot with sig. 'om' on line 949.
+.................................................
+\l__xeCJK_under_symbol_box=\box53
+.................................................
+. LaTeX info: "xparse/redefine-environment"
+. 
+. Redefining environment 'CJKfilltwosides' with sig. 'O{c}m' on line 1053.
+.................................................
+\c__xeCJK_filll_skip=\skip59
+)
+\ccwd=\dimen175
+\l__ctex_ccglue_skip=\skip60
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ctexset with sig. '' on line 388.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXsetup with sig. '+o>{\TrimSpaces }m' on line 394.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXoptions with sig. '+o' on line 400.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXsetfont with sig. '' on line 418.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ziju with sig. 'm' on line 490.
+.................................................
+\l__ctex_ziju_dim=\dimen176
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXindent with sig. '' on line 531.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXnoindent with sig. '' on line 537.
+.................................................
+
+(c:/texlive/2017/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2018/01/28 v2.6 Typesetting numbers with Chinese glyphs
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumber with sig. '+o+m' on line 50.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumberwithoptions with sig. '+m+m' on line 57.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnum with sig. '+o+m' on line 111.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumwithoptions with sig. '+m+m' on line 118.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdig with sig. '+o+m' on line 295.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdigwithoptions with sig. '+m+m' on line 302.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdigits with sig. '+s+o+m' on line 316.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdigitswithoptions with sig. '+m+m+m' on line 323.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdate with sig. '+s+m' on line 382.
+.................................................
+\l__zhnum_scale_int=\count197
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumExtendScaleMap with sig. '>{\TrimSpaces }+o+m' on
+. line 504.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumsetup with sig. '+m' on line 934.
+.................................................
+
+(c:/texlive/2017/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2018/01/28 v2.6 Chinese numerals with UTF8 encoding
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXnumber with sig. 'mm' on line 554.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXdigits with sig. 'mm' on line 556.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ctex_assign_heading_name:nn with sig. 'm>{\SplitArgument
+. {\c_one }{,}}+m' on line 681.
+.................................................
+\l__ctex_heading_skip=\skip61
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \partmark with sig. 'm' on line 728.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \refstepcounter with sig. 'm' on line 1323.
+.................................................
+
+(c:/texlive/2017/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-book.def
+File: ctex-scheme-chinese-book.def 2018/01/28 v2.4.12 Chinese scheme for book (
+CTEX)
+
+(c:/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2018/01/28 v2.4.12 Caption with encoding UTF8 (CTEX)
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zihao with sig. 'm' on line 1326.
+.................................................
+
+(c:/texlive/2017/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2018/01/28 v2.4.12 c5size option (CTEX)
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTeX with sig. '' on line 1430.
+.................................................
+
+(c:/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2018/01/28 v2.4.12 Windows fonts definition (CTE
+X)
+
+(c:/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+File: ctex-fontset-windowsnew.def 2018/01/28 v2.4.12 Windows fonts definition f
+or Vista or later version (CTEX)
+\g__fontspec_family_SimSun_int=\count198
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "KaiTi/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "SimHei/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "SimSun/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SimSun(0)' created for font 'SimSun' with options
+. [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"SimSun/OT:script=hani;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.: <->"SimHei/OT:script=hani;language=DFLT;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'italic' (m/it) with NFSS spec.: <->"KaiTi/OT:script=hani;language=DFLT;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \songti with sig. '' on line 111.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \heiti with sig. '' on line 112.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fangsong with sig. '' on line 113.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \kaishu with sig. '' on line 114.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \lishu with sig. '' on line 115.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \youyuan with sig. '' on line 116.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \yahei with sig. '' on line 117.
+.................................................
+))) (c:/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2018/01/28 v2.4.12 Configuration file (CTEX)
+)
+\g__fontspec_family_LatinModernRoman_int=\count199
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'LatinModernRoman(0)' created for font 'Latin Modern Roman' with
+. options [Ligatures=TeX].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"Latin Modern
+. Roman/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.: <->"Latin Modern
+. Roman/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'italic' (m/it) with NFSS spec.: <->"Latin Modern
+. Roman/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+. - 'bold italic' (bx/it) with NFSS spec.: <->"Latin Modern
+. Roman/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+LaTeX Info: Redefining \rmfamily on input line 6.
+
+*************************************************
+* xeCJK warning: "CJKfamily-redef"
+* 
+* Redefining CJKfamily `\CJKrmdefault' (SimSun(0)).
+*************************************************
+(c:/texlive/2017/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count266
+\c@@ppsavesec=\count267
+\c@@ppsaveapp=\count268
+)
+(c:/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box54
+\beforetitleunit=\skip62
+\aftertitleunit=\skip63
+\ttl@plus=\dimen177
+\ttl@minus=\dimen178
+\ttl@toksa=\toks19
+\titlewidth=\dimen179
+\titlewidthlast=\dimen180
+\titlewidthfirst=\dimen181
+)
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip64
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen182
+))
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen183
+)
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count269
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count270
+\leftroot@=\count271
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count272
+\DOTSCASE@=\count273
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen184
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count274
+\c@MaxMatrixCols=\count275
+\dotsspace@=\muskip17
+\c@parentequation=\count276
+\dspbrk@lvl=\count277
+\tag@help=\toks21
+\row@=\count278
+\column@=\count279
+\maxfields@=\count280
+\andhelp@=\toks22
+\eqnshift@=\dimen185
+\alignsep@=\dimen186
+\tagshift@=\dimen187
+\tagwidth@=\dimen188
+\totwidth@=\dimen189
+\lineht@=\dimen190
+\@envbody=\toks23
+\multlinegap=\skip65
+\multlinetaggap=\skip66
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
+\thm@preskip=\skip67
+\thm@postskip=\skip68
+\thm@headsep=\skip69
+\dth@everypar=\toks30
+)
+(c:/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count281
+\Gm@cntv=\count282
+\c@Gm@tempcnt=\count283
+\Gm@bindingoffset=\dimen191
+\Gm@wd@mp=\dimen192
+\Gm@odd@mp=\dimen193
+\Gm@even@mp=\dimen194
+\Gm@layoutwidth=\dimen195
+\Gm@layoutheight=\dimen196
+\Gm@layouthoffset=\dimen197
+\Gm@layoutvoffset=\dimen198
+\Gm@dimlist=\toks31
+)
+(c:/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2017/11/26 v2.7k A comprehensive (SI) units package
+
+(c:/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen199
+\extrarowheight=\dimen256
+\NC@list=\toks32
+\extratabsurround=\skip70
+\backup@length=\skip71
+)
+\l__siunitx_tmp_box=\box57
+\l__siunitx_tmp_dim=\dimen257
+\l__siunitx_tmp_int=\count284
+\l__siunitx_number_mantissa_length_int=\count285
+\l__siunitx_number_uncert_length_int=\count286
+\l__siunitx_round_int=\count287
+\l__siunitx_process_decimal_int=\count288
+\l__siunitx_process_uncertainty_int=\count289
+\l__siunitx_process_fixed_int=\count290
+\l__siunitx_process_integer_min_int=\count291
+\l__siunitx_process_precision_int=\count292
+\l__siunitx_group_min_int=\count293
+\l__siunitx_angle_marker_box=\box58
+\l__siunitx_angle_unit_box=\box59
+\l__siunitx_angle_marker_dim=\dimen258
+\l__siunitx_angle_unit_dim=\dimen259
+\l__siunitx_unit_int=\count294
+\l__siunitx_unit_denominator_int=\count295
+\l__siunitx_unit_numerator_int=\count296
+\l__siunitx_unit_prefix_int=\count297
+\l__siunitx_unit_prefix_base_int=\count298
+\l__siunitx_unit_prefix_gram_int=\count299
+\l__siunitx_number_product_int=\count300
+\c__siunitx_one_fill_skip=\skip72
+\l__siunitx_table_unit_align_skip=\skip73
+\l__siunitx_table_exponent_dim=\dimen260
+\l__siunitx_table_integer_dim=\dimen261
+\l__siunitx_table_mantissa_dim=\dimen262
+\l__siunitx_table_marker_dim=\dimen263
+\l__siunitx_table_result_dim=\dimen264
+\l__siunitx_table_uncert_dim=\dimen265
+\l__siunitx_table_fill_pre_dim=\dimen266
+\l__siunitx_table_fill_post_dim=\dimen267
+\l__siunitx_table_fill_mid_dim=\dimen268
+\l__siunitx_table_pre_box=\box60
+\l__siunitx_table_post_box=\box61
+\l__siunitx_table_mantissa_box=\box62
+\l__siunitx_table_result_box=\box63
+\l__siunitx_table_number_align_skip=\skip74
+\l__siunitx_table_text_align_skip=\skip75
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7250.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7253.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7256.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7259.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7262.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7265.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7268.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7283.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7292.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7301.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7310.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7322.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7334.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7346.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7349.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7364.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7376.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numInBookmark with sig. 'om' on line 7423.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrangeInBookmark with sig. 'omm' on line 7425.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIInBookmark with sig. 'omom' on line 7427.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlistInBookmark with sig. 'omm' on line 7429.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7431.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \siInBookmark with sig. 'om' on line 7432.
+.................................................
+
+(c:/texlive/2017/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+(c:/texlive/2017/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen269
+\Hy@linkcounter=\count301
+\Hy@pagecounter=\count302
+
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count303
+
+(c:/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4383.
+
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count304
+
+(c:/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen270
+\Fld@menulength=\count305
+\Field@Width=\dimen271
+\Fld@charsize=\dimen272
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring ON on input line 6387.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count306
+\c@Item=\count307
+\c@Hfootnote=\count308
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2018/02/06 v6.86b Hyperref driver for XeTeX
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box64
+\c@Hy@AnnotLevel=\count309
+\HyField@AnnotCount=\count310
+\Fld@listcount=\count311
+\c@bookmark@seq@number=\count312
+
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip76
+)
+(c:/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip77
+\f@nch@O@elh=\skip78
+\f@nch@O@erh=\skip79
+\f@nch@O@olh=\skip80
+\f@nch@O@orh=\skip81
+\f@nch@O@elf=\skip82
+\f@nch@O@erf=\skip83
+\f@nch@O@olf=\skip84
+\f@nch@O@orf=\skip85
+)
+(c:/texlive/2017/texmf-dist/tex/latex/caption/caption2.sty
+Package: caption2 2015/09/15 v2.2-100 Customising captions (AR)
+
+
+Package caption2 Warning: ****************************************************
+(caption2)                THIS PACKAGE IS OBSOLETE:
+(caption2)                This package attempts to provide an `caption2'
+(caption2)                package v2.0/2.1 author environment so that OLD
+(caption2)                documents can be successfully processed. It should
+(caption2)                NOT be used for NEW documents! New documents should
+(caption2)                use the regular `caption' package v3.x instead.
+(caption2)                ****************************************************
+
+(c:/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen273
+\captionmargin@=\dimen274
+\captionwidth=\dimen275
+\caption@tempdima=\dimen276
+\caption@indent=\dimen277
+\caption@parindent=\dimen278
+\caption@hangindent=\dimen279
+)
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
+e 221.
+\captionlinewidth=\dimen280
+\realcaptionwidth=\dimen281
+)
+(c:/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count313
+\float@exts=\toks33
+\float@box=\box65
+\@float@everytoks=\toks34
+\@floatcapt=\box66
+)
+(c:/texlive/2017/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen282
+\WF@size=\dimen283
+\c@WF@wrappedlines=\count314
+\WF@box=\box67
+\WF@everypar=\toks35
+Package: wrapfig 2003/01/31  v 3.6
+)
+(c:/texlive/2017/texmf-dist/tex/latex/tagging/tagging.sty
+Package: tagging 2011/08/04
+
+(c:/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count315
+)
+(c:/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks36
+\verbatim@line=\toks37
+\verbatim@in@stream=\read2
+))
+\c@ex=\count316
+
+(./lectures_olympics.aux (./perface/index.aux) (./dynamics/motion.aux)
+(./dynamics/static-force.aux) (./dynamics/newton.aux
+
+LaTeX Warning: Label `key' multiply defined.
+
+) (./dynamics/momentum.aux) (./dynamics/energy.aux)
+(./dynamics/angular-momentum.aux) (./dynamics/gravity.aux)
+(./dynamics/oscillation-wave.aux) (./dynamics/rigid-body.aux)
+(./thermol/thermol.aux
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `fig: ' multiply defined.
+
+) (./geo-optics/geo-optics.aux
+
+LaTeX Warning: Label `fig: ' multiply defined.
+
+) (./calculus/calculus.aux
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+) (./elec-mag-theory/static-elec.aux) (./elec-mag-theory/elec-current.aux)
+(./elec-mag-theory/static-mag.aux) (./elec-mag-theory/mag-induction.aux)
+(./elec-mag-theory/alt-current.aux) (./elec-mag-theory/em-wave.aux)
+(./elec-mag-theory/wave-optics.aux) (./morden/relativity.aux)
+(./morden/particle.aux) (./calculus/smallAnalysis.aux) (./problems/problems.aux
+) (./appendix/app.aux))
+\openout1 = `lectures_olympics.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 119.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 119.
+ (c:/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 119.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 119.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 119.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 119.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 119.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 119.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 119.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 119.
+LaTeX Font Info:    Redeclaring math accent \check on input line 119.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 119.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 119.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 119.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 119.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 119.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/LatinModernRoman(0)/m/n on input lin
+e 119.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 119.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/LatinModernRoman(0)/m/n on input li
+ne 119.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/LatinModernRoman(0)/m/n --> TU/LatinModernRoman(0)/m
+/n on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/LatinModernRoman(0)/m/it on input l
+ine 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/LatinModernRoman(0)/bx/n on input l
+ine 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/LatinModernRoman(0)/m/n --> TU/LatinModernRoman(0)/b
+x/n on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/LatinModernRoman(0)/bx/it on input
+ line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 119.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.70166pt, 418.25368pt, 107.55254pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=-0.56833pt
+* \evensidemargin=35.28255pt
+* \topmargin=-0.93083pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=115.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(c:/texlive/2017/texmf-dist/tex/latex/translator/translator-basic-dictionary-En
+glish.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(c:/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+\AtBeginShipoutBox=\box68
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+LaTeX Info: Redefining \color on input line 86.
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 119.
+
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count317
+)
+LaTeX Info: Redefining \ref on input line 119.
+LaTeX Info: Redefining \pageref on input line 119.
+LaTeX Info: Redefining \nameref on input line 119.
+
+(./lectures_olympics.out) (./lectures_olympics.out)
+\@outlinefile=\write3
+\openout3 = `lectures_olympics.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\c__siunitx_mathsf_int=\count318
+LaTeX Font Info:    Try loading font information for U+msa on input line 119.
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 119.
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 119.
+
+(c:/texlive/2017/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <10.53937> not available
+(Font)              size <10.95> substituted on input line 119.
+
+\c__siunitx_mathtt_int=\count319
+(./lectures_olympics.toc [1
+
+
+]
+LaTeX Font Info:    Font shape `TU/LatinModernRoman(0)/m/sl' in size <10.53937>
+ not available
+(Font)              Font shape `TU/LatinModernRoman(0)/m/it' tried instead on i
+nput line 61.
+LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
+able
+(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
+61.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.64723pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2] [3] [4] [5] [6])
+\tf@toc=\write4
+\openout4 = `lectures_olympics.toc'.
+
+ [7]
+\openout2 = `perface/index.aux'.
+
+ (./perface/index.tex [8
+
+
+]
+第一章
+\g__fontspec_family_SimHei_int=\count320
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "SimHei/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "SimHei/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "SimHei/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SimHei(0)' created for font 'SimHei' with options
+. [Script={CJK}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"SimHei/OT:script=hani;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+File: images/pre_2.pdf Graphic file (type pdf)
+<use images/pre_2.pdf>
+File: images/pre_3.pdf Graphic file (type pdf)
+<use images/pre_3.pdf>
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <7.52812> not available
+(Font)              size <8> substituted on input line 28.
+
+[9]
+File: images/pre_4.pdf Graphic file (type pdf)
+<use images/pre_4.pdf>
+File: images/pre_5.pdf Graphic file (type pdf)
+<use images/pre_5.pdf>
+File: images/pre_6.pdf Graphic file (type pdf)
+<use images/pre_6.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+File: images/pre_7.pdf Graphic file (type pdf)
+<use images/pre_7.pdf>
+\g__fontspec_family_KaiTi_int=\count321
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "KaiTi/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "KaiTi/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "KaiTi/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'KaiTi(0)' created for font 'KaiTi' with options [Script={CJK}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"KaiTi/OT:script=hani;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+)
+[11]
+\openout2 = `dynamics/motion.aux'.
+
+ (./dynamics/motion.tex [12
+
+
+
+]
+第二章
+File: images/motion-moon.pdf Graphic file (type pdf)
+<use images/motion-moon.pdf>
+[13]
+File: images/motion-race.pdf Graphic file (type pdf)
+<use images/motion-race.pdf>
+
+
+Package Fancyhdr Warning: \headheight is too small (12.64723pt): 
+ Make it at least 12.6868pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14]
+Overfull \hbox (3.89116pt too wide) in paragraph at lines 113--120
+[][] 
+ []
+
+File: images/motion-problem-empty-coordinate.pdf Graphic file (type pdf)
+<use images/motion-problem-empty-coordinate.pdf>
+
+Underfull \vbox (badness 1968) has occurred while \output is active []
+
+ [15]
+File: images/motion-problem-three-empty-coordinate.pdf Graphic file (type pdf)
+<use images/motion-problem-three-empty-coordinate.pdf>
+File: images/motion-problem-4.pdf Graphic file (type pdf)
+<use images/motion-problem-4.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+[17] [18]
+Overfull \hbox (3.89116pt too wide) in paragraph at lines 213--230
+[][]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+File: images/motion-x-t.pdf Graphic file (type pdf)
+<use images/motion-x-t.pdf>
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+
+Underfull \vbox (badness 1609) has occurred while \output is active []
+
+ [20]
+File: images/motion-problem-5.pdf Graphic file (type pdf)
+<use images/motion-problem-5.pdf>
+File: images/motion-v-t.pdf Graphic file (type pdf)
+<use images/motion-v-t.pdf>
+
+[21]
+File: images/motion-problem-39.pdf Graphic file (type pdf)
+<use images/motion-problem-39.pdf>
+File: images/motion-problem-6.pdf Graphic file (type pdf)
+<use images/motion-problem-6.pdf>
+ [22]
+Underfull \vbox (badness 4193) has occurred while \output is active []
+
+ [23]
+[24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Underfull \vbox (badness 3601) has occurred while \output is active []
+
+ [26]
+File: images/motion-one-up-one-down.pdf Graphic file (type pdf)
+<use images/motion-one-up-one-down.pdf>
+
+[27]
+File: images/motion-29.pdf Graphic file (type pdf)
+<use images/motion-29.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+
+[29]
+File: images/motion-theory-1.pdf Graphic file (type pdf)
+<use images/motion-theory-1.pdf>
+File: images/motion-problem-7.pdf Graphic file (type pdf)
+<use images/motion-problem-7.pdf>
+ [30]
+File: images/motion-problem-8.pdf Graphic file (type pdf)
+<use images/motion-problem-8.pdf>
+File: images/motion-theory-2.pdf Graphic file (type pdf)
+<use images/motion-theory-2.pdf>
+File: images/motion-theory-3.pdf Graphic file (type pdf)
+<use images/motion-theory-3.pdf>
+ [31]
+File: images/motion-theory-4.pdf Graphic file (type pdf)
+<use images/motion-theory-4.pdf>
+ [32]
+File: images/motion-theory-5.pdf Graphic file (type pdf)
+<use images/motion-theory-5.pdf>
+ [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+File: images/motion-theory-6.pdf Graphic file (type pdf)
+<use images/motion-theory-6.pdf>
+
+[35]
+File: images/motion-30.pdf Graphic file (type pdf)
+<use images/motion-30.pdf>
+Missing character: There is no ＜ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/motion-problem-football.pdf Graphic file (type pdf)
+<use images/motion-problem-football.pdf>
+
+Underfull \vbox (badness 4156) has occurred while \output is active []
+
+ [36]
+File: images/motion-problem-29.pdf Graphic file (type pdf)
+<use images/motion-problem-29.pdf>
+File: images/motion-31.pdf Graphic file (type pdf)
+<use images/motion-31.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+File: images/motion-theory-7.pdf Graphic file (type pdf)
+<use images/motion-theory-7.pdf>
+
+[38] [39]
+File: images/motion-8.pdf Graphic file (type pdf)
+<use images/motion-8.pdf>
+ [40]
+File: images/motion-32.pdf Graphic file (type pdf)
+<use images/motion-32.pdf>
+File: images/motion-problem-2.pdf Graphic file (type pdf)
+<use images/motion-problem-2.pdf>
+ [41]
+File: images/motion-33.pdf Graphic file (type pdf)
+<use images/motion-33.pdf>
+File: images/motion-9.pdf Graphic file (type pdf)
+<use images/motion-9.pdf>
+
+Underfull \vbox (badness 1728) has occurred while \output is active []
+
+ [42]
+File: images/motion-34.pdf Graphic file (type pdf)
+<use images/motion-34.pdf>
+
+[43]
+File: images/motion-problem-31.pdf Graphic file (type pdf)
+<use images/motion-problem-31.pdf>
+File: images/motion-10.pdf Graphic file (type pdf)
+<use images/motion-10.pdf>
+File: images/motion-11.pdf Graphic file (type pdf)
+<use images/motion-11.pdf>
+ [44]
+File: images/motion-12.pdf Graphic file (type pdf)
+<use images/motion-12.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+File: images/motion-problem-30.pdf Graphic file (type pdf)
+<use images/motion-problem-30.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+File: images/motion-13.pdf Graphic file (type pdf)
+<use images/motion-13.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47]
+File: images/motion-14.pdf Graphic file (type pdf)
+<use images/motion-14.pdf>
+File: images/motion-15.pdf Graphic file (type pdf)
+<use images/motion-15.pdf>
+
+Overfull \hbox (2.33974pt too wide) in paragraph at lines 1451--1463
+[]$[]$ $[]$ 
+ []
+
+Missing character: There is no ， in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+[48]
+Underfull \vbox (badness 3954) has occurred while \output is active []
+
+ [49]
+File: images/motion-problem-9.pdf Graphic file (type pdf)
+<use images/motion-problem-9.pdf>
+File: images/motion-problem-10.pdf Graphic file (type pdf)
+<use images/motion-problem-10.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50]
+File: images/motion-problem-44.pdf Graphic file (type pdf)
+<use images/motion-problem-44.pdf>
+
+[51]
+File: images/motion-problem-32.pdf Graphic file (type pdf)
+<use images/motion-problem-32.pdf>
+File: images/motion-16.pdf Graphic file (type pdf)
+<use images/motion-16.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52]
+File: images/motion-problem-33.pdf Graphic file (type pdf)
+<use images/motion-problem-33.pdf>
+
+[53]
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/motion-17.pdf Graphic file (type pdf)
+<use images/motion-17.pdf>
+
+Underfull \vbox (badness 3826) has occurred while \output is active []
+
+ [54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55]
+File: images/motion-problem-34.pdf Graphic file (type pdf)
+<use images/motion-problem-34.pdf>
+
+[56] [57]
+File: images/motion-problem-41.pdf Graphic file (type pdf)
+<use images/motion-problem-41.pdf>
+File: images/motion-18.pdf Graphic file (type pdf)
+<use images/motion-18.pdf>
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+ [58]
+File: images/motion-problem-35.pdf Graphic file (type pdf)
+<use images/motion-problem-35.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59]
+File: images/motion-problem-35.pdf Graphic file (type pdf)
+<use images/motion-problem-35.pdf>
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/motion-19.pdf Graphic file (type pdf)
+<use images/motion-19.pdf>
+
+Underfull \vbox (badness 2828) has occurred while \output is active []
+
+ [60]
+File: images/motion-problem-36.pdf Graphic file (type pdf)
+<use images/motion-problem-36.pdf>
+File: images/motion-35.pdf Graphic file (type pdf)
+<use images/motion-35.pdf>
+
+[61]
+File: images/motion-36.pdf Graphic file (type pdf)
+<use images/motion-36.pdf>
+ [62]
+File: images/motion-problem-37.pdf Graphic file (type pdf)
+<use images/motion-problem-37.pdf>
+File: images/motion-20.pdf Graphic file (type pdf)
+<use images/motion-20.pdf>
+ [63] [64]
+File: images/Osculating_circle.pdf Graphic file (type pdf)
+<use images/Osculating_circle.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+File: images/motion-problem-curved-lines-radius.pdf Graphic file (type pdf)
+<use images/motion-problem-curved-lines-radius.pdf>
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/motion-problem-45.pdf Graphic file (type pdf)
+<use images/motion-problem-45.pdf>
+
+[66]
+Underfull \vbox (badness 2418) has occurred while \output is active []
+
+ [67]
+File: images/motion-Kepler_Mars_retrograde.pdf Graphic file (type pdf)
+<use images/motion-Kepler_Mars_retrograde.pdf>
+
+[68]
+File: images/motion-ellipse-detail.pdf Graphic file (type pdf)
+<use images/motion-ellipse-detail.pdf>
+File: images/motion-21.pdf Graphic file (type pdf)
+<use images/motion-21.pdf>
+ [69]
+File: images/motion-37.pdf Graphic file (type pdf)
+<use images/motion-37.pdf>
+File: images/motion-38.pdf Graphic file (type pdf)
+<use images/motion-38.pdf>
+ [70]
+File: images/motion-22.pdf Graphic file (type pdf)
+<use images/motion-22.pdf>
+ [71]
+File: images/motion-23.pdf Graphic file (type pdf)
+<use images/motion-23.pdf>
+ [72]
+File: images/motion-24.pdf Graphic file (type pdf)
+<use images/motion-24.pdf>
+ [73] [74]
+File: images/motion-problem-25.pdf Graphic file (type pdf)
+<use images/motion-problem-25.pdf>
+File: images/motion-problem-26.pdf Graphic file (type pdf)
+<use images/motion-problem-26.pdf>
+
+Underfull \vbox (badness 1325) has occurred while \output is active []
+
+ [75]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [76]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77]
+File: images/motion-problem-38.pdf Graphic file (type pdf)
+<use images/motion-problem-38.pdf>
+
+[78]
+File: images/motion-28.pdf Graphic file (type pdf)
+<use images/motion-28.pdf>
+ [79] [80]
+File: images/motion-39.pdf Graphic file (type pdf)
+<use images/motion-39.pdf>
+File: images/motion-40.pdf Graphic file (type pdf)
+<use images/motion-40.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [82]
+Underfull \vbox (badness 1314) has occurred while \output is active []
+
+ [83]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84]
+File: images/motion-41.pdf Graphic file (type pdf)
+<use images/motion-41.pdf>
+
+[85] [86]
+File: images/motion-46.pdf Graphic file (type pdf)
+<use images/motion-46.pdf>
+ [87]
+File: images/motion-problem-40.pdf Graphic file (type pdf)
+<use images/motion-problem-40.pdf>
+ [88]
+File: images/motion-problem-42.pdf Graphic file (type pdf)
+<use images/motion-problem-42.pdf>
+ [89]
+File: images/motion-42.pdf Graphic file (type pdf)
+<use images/motion-42.pdf>
+File: images/motion-43.pdf Graphic file (type pdf)
+<use images/motion-43.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [90]
+File: images/motion-44.pdf Graphic file (type pdf)
+<use images/motion-44.pdf>
+
+[91]
+File: images/motion-45.pdf Graphic file (type pdf)
+<use images/motion-45.pdf>
+File: images/rb-Eulerangles.pdf Graphic file (type pdf)
+<use images/rb-Eulerangles.pdf>
+ [92]
+File: images/rb-theory-2.pdf Graphic file (type pdf)
+<use images/rb-theory-2.pdf>
+File: images/rb-rotation-about-fixed-axis.pdf Graphic file (type pdf)
+<use images/rb-rotation-about-fixed-axis.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: images/motion-51.pdf Graphic file (type pdf)
+<use images/motion-51.pdf>
+
+Underfull \vbox (badness 1205) has occurred while \output is active []
+
+ [93]
+File: images/motion-problem-43.pdf Graphic file (type pdf)
+<use images/motion-problem-43.pdf>
+
+Underfull \vbox (badness 2582) has occurred while \output is active []
+
+ [94]
+File: images/motion-52.pdf Graphic file (type pdf)
+<use images/motion-52.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95]
+File: images/Bubble_Buoyancy.pdf Graphic file (type pdf)
+<use images/Bubble_Buoyancy.pdf>
+File: images/motion-Streamlines_and_streamtube.pdf Graphic file (type pdf)
+<use images/motion-Streamlines_and_streamtube.pdf>
+
+[96]
+File: images/motion-48.pdf Graphic file (type pdf)
+<use images/motion-48.pdf>
+ [97]
+File: images/motion-49.pdf Graphic file (type pdf)
+<use images/motion-49.pdf>
+File: images/motion-50.pdf Graphic file (type pdf)
+<use images/motion-50.pdf>
+ [98]
+File: images/motion-47.pdf Graphic file (type pdf)
+<use images/motion-47.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [99]
+File: images/motion-problem-1.pdf Graphic file (type pdf)
+<use images/motion-problem-1.pdf>
+
+[100]
+File: images/Mars_retrograde_motion.pdf Graphic file (type pdf)
+<use images/Mars_retrograde_motion.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [101]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [102]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [103])
+[104]
+\openout2 = `dynamics/static-force.aux'.
+
+ (./dynamics/static-force.tex
+第三章
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [105
+
+
+
+]
+Missing character: There is no ， in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/static-force-1.pdf Graphic file (type pdf)
+<use images/static-force-1.pdf>
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/static-force-2.pdf Graphic file (type pdf)
+<use images/static-force-2.pdf>
+
+[106]
+File: images/static-force-3.pdf Graphic file (type pdf)
+<use images/static-force-3.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [107]
+[108] [109]
+File: images/static-force-8.pdf Graphic file (type pdf)
+<use images/static-force-8.pdf>
+File: images/static-force-6.pdf Graphic file (type pdf)
+<use images/static-force-6.pdf>
+
+Underfull \vbox (badness 5504) has occurred while \output is active []
+
+ [110]
+File: images/static-force-10.pdf Graphic file (type pdf)
+<use images/static-force-10.pdf>
+
+Underfull \vbox (badness 3646) has occurred while \output is active []
+
+ [111]
+File: images/static-force-9.pdf Graphic file (type pdf)
+<use images/static-force-9.pdf>
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+
+[112]
+File: images/static-force-11.pdf Graphic file (type pdf)
+<use images/static-force-11.pdf>
+File: images/static-force-7.pdf Graphic file (type pdf)
+<use images/static-force-7.pdf>
+File: images/static-force-13.pdf Graphic file (type pdf)
+<use images/static-force-13.pdf>
+ [113]
+Missing character: There is no θ in font cmmi10!
+File: images/static-force-12.pdf Graphic file (type pdf)
+<use images/static-force-12.pdf>
+File: images/static-force-15.pdf Graphic file (type pdf)
+<use images/static-force-15.pdf>
+ [114]
+File: images/static-force-17.pdf Graphic file (type pdf)
+<use images/static-force-17.pdf>
+ [115]
+File: images/static-force-18.pdf Graphic file (type pdf)
+<use images/static-force-18.pdf>
+File: images/static-force-26.pdf Graphic file (type pdf)
+<use images/static-force-26.pdf>
+ [116]
+File: images/static-force-32.pdf Graphic file (type pdf)
+<use images/static-force-32.pdf>
+File: images/static-force-5.pdf Graphic file (type pdf)
+<use images/static-force-5.pdf>
+ [117]
+File: images/static-force-4.pdf Graphic file (type pdf)
+<use images/static-force-4.pdf>
+File: images/static-force-16.pdf Graphic file (type pdf)
+<use images/static-force-16.pdf>
+File: images/static-force-21.pdf Graphic file (type pdf)
+<use images/static-force-21.pdf>
+ [118]
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/static-force-14.pdf Graphic file (type pdf)
+<use images/static-force-14.pdf>
+File: images/static-force-29.pdf Graphic file (type pdf)
+<use images/static-force-29.pdf>
+ [119]
+File: images/static-force-25.pdf Graphic file (type pdf)
+<use images/static-force-25.pdf>
+ [120]
+File: images/static-force-31.pdf Graphic file (type pdf)
+<use images/static-force-31.pdf>
+File: images/static-force-20.pdf Graphic file (type pdf)
+<use images/static-force-20.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [121]
+Missing character: There is no ， in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/static-force-19.pdf Graphic file (type pdf)
+<use images/static-force-19.pdf>
+File: images/static-force-30.pdf Graphic file (type pdf)
+<use images/static-force-30.pdf>
+
+[122]
+File: images/static-force-28.pdf Graphic file (type pdf)
+<use images/static-force-28.pdf>
+ [123]
+File: images/static-force-23.pdf Graphic file (type pdf)
+<use images/static-force-23.pdf>
+File: images/static-force-24.pdf Graphic file (type pdf)
+<use images/static-force-24.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [124]
+File: images/static-force-22.pdf Graphic file (type pdf)
+<use images/static-force-22.pdf>
+File: images/static-force-27.pdf Graphic file (type pdf)
+<use images/static-force-27.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [125])
+[126]
+\openout2 = `dynamics/newton.aux'.
+
+ (./dynamics/newton.tex
+第四章
+[127
+
+
+
+] [128] [129] [130] [131] [132]
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/newton-11.pdf Graphic file (type pdf)
+<use images/newton-11.pdf>
+ [133]
+File: images/newton-6.pdf Graphic file (type pdf)
+<use images/newton-6.pdf>
+File: images/newton-7.pdf Graphic file (type pdf)
+<use images/newton-7.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [135]
+File: images/newton-5.pdf Graphic file (type pdf)
+<use images/newton-5.pdf>
+File: images/newton-10.pdf Graphic file (type pdf)
+<use images/newton-10.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [136]
+File: images/newton-problem-1.pdf Graphic file (type pdf)
+<use images/newton-problem-1.pdf>
+
+Underfull \vbox (badness 5331) has occurred while \output is active []
+
+ [137]
+File: images/newton-1.pdf Graphic file (type pdf)
+<use images/newton-1.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [138]
+File: images/newton-8.pdf Graphic file (type pdf)
+<use images/newton-8.pdf>
+
+[139]
+File: images/newton-problem-2.pdf Graphic file (type pdf)
+<use images/newton-problem-2.pdf>
+ [140]
+File: images/newton-14.pdf Graphic file (type pdf)
+<use images/newton-14.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [141]
+File: images/newton-3.pdf Graphic file (type pdf)
+<use images/newton-3.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [142]
+File: images/newton-12.pdf Graphic file (type pdf)
+<use images/newton-12.pdf>
+
+[143]
+Missing character: There is no 。 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/newton-15.pdf Graphic file (type pdf)
+<use images/newton-15.pdf>
+ [144]
+File: images/newton-16.pdf Graphic file (type pdf)
+<use images/newton-16.pdf>
+File: images/newton-13.pdf Graphic file (type pdf)
+<use images/newton-13.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [145]
+File: images/newton-9.pdf Graphic file (type pdf)
+<use images/newton-9.pdf>
+File: images/newton-4.pdf Graphic file (type pdf)
+<use images/newton-4.pdf>
+
+[146]
+File: images/newton-17.pdf Graphic file (type pdf)
+<use images/newton-17.pdf>
+File: images/newton-18.pdf Graphic file (type pdf)
+<use images/newton-18.pdf>
+ [147]) [148]
+\openout2 = `dynamics/momentum.aux'.
+
+ (./dynamics/momentum.tex
+第五章
+[149
+
+
+
+]
+File: images/momentum-1.pdf Graphic file (type pdf)
+<use images/momentum-1.pdf>
+ [150] [151]
+File: images/momentum-2.pdf Graphic file (type pdf)
+<use images/momentum-2.pdf>
+ [152]
+File: images/momentum-problem-1.pdf Graphic file (type pdf)
+<use images/momentum-problem-1.pdf>
+File: images/momentum-problem-2.pdf Graphic file (type pdf)
+<use images/momentum-problem-2.pdf>
+ [153]
+File: images/momentum-problem-3.pdf Graphic file (type pdf)
+<use images/momentum-problem-3.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [154]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [155]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [156]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [157]
+File: images/momentum-3.pdf Graphic file (type pdf)
+<use images/momentum-3.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [158]
+[159] [160]
+File: images/momentum-4.pdf Graphic file (type pdf)
+<use images/momentum-4.pdf>
+ [161]
+File: images/momentum-5.pdf Graphic file (type pdf)
+<use images/momentum-5.pdf>
+ [162]
+File: images/momentum-6.pdf Graphic file (type pdf)
+<use images/momentum-6.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163]
+[164]) [165]
+\openout2 = `dynamics/energy.aux'.
+
+ (./dynamics/energy.tex [166
+
+
+
+]
+第六章
+File: images/energy-1.pdf Graphic file (type pdf)
+<use images/energy-1.pdf>
+[167]
+File: images/energy-2.pdf Graphic file (type pdf)
+<use images/energy-2.pdf>
+ [168]
+File: images/energy-3.pdf Graphic file (type pdf)
+<use images/energy-3.pdf>
+File: images/momentum-7.pdf Graphic file (type pdf)
+<use images/momentum-7.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [169]
+File: images/momentum-8.pdf Graphic file (type pdf)
+<use images/momentum-8.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [170]
+[171]
+File: images/energy-wheal.pdf Graphic file (type pdf)
+<use images/energy-wheal.pdf>
+
+Overfull \hbox (12.31294pt too wide) in paragraph at lines 178--178
+[][] 
+ []
+
+[172] [173]
+File: images/energy-4.pdf Graphic file (type pdf)
+<use images/energy-4.pdf>
+ [174]
+File: images/energy-5.pdf Graphic file (type pdf)
+<use images/energy-5.pdf>
+ [175]
+File: images/energy-8.pdf Graphic file (type pdf)
+<use images/energy-8.pdf>
+File: images/energy-6.pdf Graphic file (type pdf)
+<use images/energy-6.pdf>
+
+Underfull \vbox (badness 1292) has occurred while \output is active []
+
+ [176]
+[177] [178]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [179]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [180]
+File: images/energy-7.pdf Graphic file (type pdf)
+<use images/energy-7.pdf>
+
+[181]) [182]
+\openout2 = `dynamics/angular-momentum.aux'.
+
+ (./dynamics/angular-momentum.tex
+第七章
+
+Underfull \vbox (badness 1184) has occurred while \output is active []
+
+ [183
+
+
+
+]
+File: images/angular-momentum-def-angular-momentum.pdf Graphic file (type pdf)
+<use images/angular-momentum-def-angular-momentum.pdf>
+File: images/angular-momentum-def-torque.pdf Graphic file (type pdf)
+<use images/angular-momentum-def-torque.pdf>
+
+[184] [185] [186]
+File: images/ang-momontum-4.pdf Graphic file (type pdf)
+<use images/ang-momontum-4.pdf>
+
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [187]
+File: images/angular-momentum-angular-conservation-many.pdf Graphic file (type 
+pdf)
+<use images/angular-momentum-angular-conservation-many.pdf>
+
+[188]
+File: images/ang-momontum-3.pdf Graphic file (type pdf)
+<use images/ang-momontum-3.pdf>
+File: images/ang-momontum-2.pdf Graphic file (type pdf)
+<use images/ang-momontum-2.pdf>
+ [189]
+File: images/ang-momontum-1.pdf Graphic file (type pdf)
+<use images/ang-momontum-1.pdf>
+) [190]
+\openout2 = `dynamics/gravity.aux'.
+
+ (./dynamics/gravity.tex
+第八章
+File: images/gravity-1.pdf Graphic file (type pdf)
+<use images/gravity-1.pdf>
+[191
+
+
+
+] [192]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [193]
+[194]
+Underfull \vbox (badness 2042) has occurred while \output is active []
+
+ [195]
+[196] [197]
+File: images/gravity-ex2.pdf Graphic file (type pdf)
+<use images/gravity-ex2.pdf>
+
+Underfull \vbox (badness 6910) has occurred while \output is active []
+
+ [198]
+[199] [200]
+File: images/gravity-2.pdf Graphic file (type pdf)
+<use images/gravity-2.pdf>
+
+Underfull \vbox (badness 7944) has occurred while \output is active []
+
+ [201]
+Underfull \vbox (badness 1184) has occurred while \output is active []
+
+ [202]
+File: images/gravity-3.pdf Graphic file (type pdf)
+<use images/gravity-3.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [203]
+[204]) [205]
+\openout2 = `dynamics/oscillation-wave.aux'.
+
+ (./dynamics/oscillation-wave.tex [206
+
+
+
+]
+第九章
+File: images/ow-oscillation-examples.pdf Graphic file (type pdf)
+<use images/ow-oscillation-examples.pdf>
+[207]
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+ [208]
+Missing character: There is no ， in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+ [209]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [210]
+File: images/ow-pendulum.pdf Graphic file (type pdf)
+<use images/ow-pendulum.pdf>
+
+[211]
+File: images/ow-Pendulum_period.pdf Graphic file (type pdf)
+<use images/ow-Pendulum_period.pdf>
+ [212] [213] [214]
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/ow-two-springs-oscillation.pdf Graphic file (type pdf)
+<use images/ow-two-springs-oscillation.pdf>
+ [215] [216] [217]
+File: images/ow-1.pdf Graphic file (type pdf)
+<use images/ow-1.pdf>
+File: images/ow-2.pdf Graphic file (type pdf)
+<use images/ow-2.pdf>
+ [218] [219] [220]
+File: images/ow-problem-1.pdf Graphic file (type pdf)
+<use images/ow-problem-1.pdf>
+File: images/ow-problem-1-1.pdf Graphic file (type pdf)
+<use images/ow-problem-1-1.pdf>
+ [221] [222]
+File: images/Interferences_plane_waves.pdf Graphic file (type pdf)
+<use images/Interferences_plane_waves.pdf>
+
+[223] [224]
+File: images/ow-doppler-effect-observer.pdf Graphic file (type pdf)
+<use images/ow-doppler-effect-observer.pdf>
+ [225]
+File: images/ow-3.pdf Graphic file (type pdf)
+<use images/ow-3.pdf>
+
+Underfull \vbox (badness 1221) has occurred while \output is active []
+
+ [226]
+[227]
+Overfull \hbox (12.60565pt too wide) in paragraph at lines 841--876
+[]\TU/LatinModernRoman(0)/m/n/10.53937 (\TU/KaiTi(0)/m/n/10.53937 提 示：|  余 弦 函 
+数 在 一 点 处 有 近 似 的 展 开 式 $[]\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 x \OT1
+/cmr/m/n/10.53937 + ^^A\OML/cmm/m/it/10.53937 x\OT1/cmr/m/n/10.53937 ) \OMS/cms
+y/m/n/10.53937 ' []\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 x\OT1/cmr/m/n/
+10.53937 ) \OMS/cmsy/m/n/10.53937 ^^@ []\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10
+.53937 x\OT1/cmr/m/n/10.53937 )^^A\OML/cmm/m/it/10.53937 x \OMS/cmsy/m/n/10.539
+37 ^^@ [] []\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 x\OT1/cmr/m/n/10.5393
+7 )(^^A\OML/cmm/m/it/10.53937 x\OT1/cmr/m/n/10.53937 )[]$\TU/KaiTi(0)/m/n/10.53
+937 ，|
+ []
+
+[228]) [229]
+\openout2 = `dynamics/rigid-body.aux'.
+
+ (./dynamics/rigid-body.tex [230
+
+
+
+]
+第十章
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [231]
+File: images/rb-Eulerangles.pdf Graphic file (type pdf)
+<use images/rb-Eulerangles.pdf>
+File: images/rb-theory-2.pdf Graphic file (type pdf)
+<use images/rb-theory-2.pdf>
+File: images/rb-rotation-about-fixed-axis.pdf Graphic file (type pdf)
+<use images/rb-rotation-about-fixed-axis.pdf>
+
+[232]
+Overfull \hbox (3.70865pt too wide) in paragraph at lines 78--82
+[]\TU/KaiTi(0)/m/n/10.53937 定 轴 转 动\TU/SimSun(0)/m/n/10.53937 ：|  除 了 平 动 以 外 刚
+ 体 另 外 一 类 简 单 的 运 动 是 围 绕 一 根 固 定 轴 线 的 转 动。|  图[][]\TU/LatinModernRoman(0)/m/
+n/10.53937 10.3[][]\TU/SimSun(0)/m/n/10.53937 给
+ []
+
+[233]
+File: images/rb-1.pdf Graphic file (type pdf)
+<use images/rb-1.pdf>
+ [234]
+File: images/rb-2.pdf Graphic file (type pdf)
+<use images/rb-2.pdf>
+ [235] [236] [237]
+File: images/rb-theory-1.pdf Graphic file (type pdf)
+<use images/rb-theory-1.pdf>
+ [238]
+File: images/rb-problem-5.pdf Graphic file (type pdf)
+<use images/rb-problem-5.pdf>
+File: images/rb-problem-7.pdf Graphic file (type pdf)
+<use images/rb-problem-7.pdf>
+ [239]
+File: images/rb-problem-1.pdf Graphic file (type pdf)
+<use images/rb-problem-1.pdf>
+
+Underfull \vbox (badness 6944) has occurred while \output is active []
+
+ [240]
+File: images/rb-problem-2.pdf Graphic file (type pdf)
+<use images/rb-problem-2.pdf>
+
+[241]
+File: images/rb-problem-3.pdf Graphic file (type pdf)
+<use images/rb-problem-3.pdf>
+File: images/rb-problem-4.pdf Graphic file (type pdf)
+<use images/rb-problem-4.pdf>
+ [242]
+File: images/rb-problem-6.pdf Graphic file (type pdf)
+<use images/rb-problem-6.pdf>
+) [243]
+\openout2 = `thermol/thermol.aux'.
+
+ (./thermol/thermol.tex [244
+
+
+
+]
+第十一章
+File: images/thermal-20.pdf Graphic file (type pdf)
+<use images/thermal-20.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [245]
+[246]
+
+LaTeX Font Warning: Font shape `TU/SimHei(0)/bx/n' undefined
+(Font)              using `TU/SimHei(0)/m/n' instead on input line 80.
+
+[247]
+Underfull \vbox (badness 1540) has occurred while \output is active []
+
+ [248]
+File: images/thermal-1.pdf Graphic file (type pdf)
+<use images/thermal-1.pdf>
+
+[249]
+File: images/thermal-2.pdf Graphic file (type pdf)
+<use images/thermal-2.pdf>
+File: images/thermal-3.pdf Graphic file (type pdf)
+<use images/thermal-3.pdf>
+Missing character: There is no ＝ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ＝ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ， in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ＝ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ＝ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ＝ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ＝ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+ [250]
+File: images/thermal-4.pdf Graphic file (type pdf)
+<use images/thermal-4.pdf>
+File: images/thermal-9.pdf Graphic file (type pdf)
+<use images/thermal-9.pdf>
+Missing character: There is no （ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+ [251]
+File: images/thermal-5.pdf Graphic file (type pdf)
+<use images/thermal-5.pdf>
+ [252] [253]
+Missing character: There is no ， in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+ [254]
+File: images/before-th-1.pdf Graphic file (type pdf)
+<use images/before-th-1.pdf>
+ [255]
+File: images/thermal-19.pdf Graphic file (type pdf)
+<use images/thermal-19.pdf>
+ [256]
+File: images/thermal-10.pdf Graphic file (type pdf)
+<use images/thermal-10.pdf>
+ [257]
+File: images/thermal-12.pdf Graphic file (type pdf)
+<use images/thermal-12.pdf>
+ [258]
+File: images/thermal-6.pdf Graphic file (type pdf)
+<use images/thermal-6.pdf>
+File: images/thermal-7.pdf Graphic file (type pdf)
+<use images/thermal-7.pdf>
+File: images/thermal-11.pdf Graphic file (type pdf)
+<use images/thermal-11.pdf>
+ [259]
+File: images/thermal-22.pdf Graphic file (type pdf)
+<use images/thermal-22.pdf>
+ [260]
+[261]
+File: images/thermal-16.pdf Graphic file (type pdf)
+<use images/thermal-16.pdf>
+File: images/thermal-8.pdf Graphic file (type pdf)
+<use images/thermal-8.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [262]
+File: images/thermal-17.pdf Graphic file (type pdf)
+<use images/thermal-17.pdf>
+
+[263]
+File: images/thermal-15.pdf Graphic file (type pdf)
+<use images/thermal-15.pdf>
+File: images/thermal-13.pdf Graphic file (type pdf)
+<use images/thermal-13.pdf>
+ [264]
+File: images/thermal-14.pdf Graphic file (type pdf)
+<use images/thermal-14.pdf>
+ [265] [266] [267] [268] [269] [270]
+File: images/mebrane-1.pdf Graphic file (type pdf)
+<use images/mebrane-1.pdf>
+File: images/water-drop.pdf Graphic file (type pdf)
+<use images/water-drop.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [271]
+File: images/height-problem.pdf Graphic file (type pdf)
+<use images/height-problem.pdf>
+
+[272]
+File: images/thermal-21.pdf Graphic file (type pdf)
+<use images/thermal-21.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[273] [274]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [275]
+File: images/thermal-18.pdf Graphic file (type pdf)
+<use images/thermal-18.pdf>
+
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [276]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [277]
+[278] [279]) [280]
+\openout2 = `geo-optics/geo-optics.aux'.
+
+ (./geo-optics/geo-optics.tex
+第十二章
+File: images/opt-20.pdf Graphic file (type pdf)
+<use images/opt-20.pdf>
+File: images/reflection.pdf Graphic file (type pdf)
+<use images/reflection.pdf>
+Missing character: There is no （ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+[281
+
+
+
+]
+File: images/opt-1.pdf Graphic file (type pdf)
+<use images/opt-1.pdf>
+File: images/opt-2.pdf Graphic file (type pdf)
+<use images/opt-2.pdf>
+File: images/opt-3.pdf Graphic file (type pdf)
+<use images/opt-3.pdf>
+ [282]
+File: images/sphirical-mirrow-reflaction.pdf Graphic file (type pdf)
+<use images/sphirical-mirrow-reflaction.pdf>
+ [283]
+File: images/refraction.pdf Graphic file (type pdf)
+<use images/refraction.pdf>
+ [284]
+File: images/opt-4.pdf Graphic file (type pdf)
+<use images/opt-4.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [285]
+File: images/opt-15.pdf Graphic file (type pdf)
+<use images/opt-15.pdf>
+File: images/opt-6.pdf Graphic file (type pdf)
+<use images/opt-6.pdf>
+
+[286]
+File: images/opt-5.pdf Graphic file (type pdf)
+<use images/opt-5.pdf>
+File: images/opt-7.pdf Graphic file (type pdf)
+<use images/opt-7.pdf>
+ [287] [288]
+File: images/opt-19.pdf Graphic file (type pdf)
+<use images/opt-19.pdf>
+File: images/fermat-refraction-solution.pdf Graphic file (type pdf)
+<use images/fermat-refraction-solution.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [289]
+File: images/opt-8.pdf Graphic file (type pdf)
+<use images/opt-8.pdf>
+
+[290]
+File: images/depth-look.pdf Graphic file (type pdf)
+<use images/depth-look.pdf>
+File: images/sphrical-mirrow.pdf Graphic file (type pdf)
+<use images/sphrical-mirrow.pdf>
+ [291]
+File: images/opt-9.pdf Graphic file (type pdf)
+<use images/opt-9.pdf>
+File: images/sphrical-lense.pdf Graphic file (type pdf)
+<use images/sphrical-lense.pdf>
+ [292]
+File: images/lense-various-case.pdf Graphic file (type pdf)
+<use images/lense-various-case.pdf>
+ [293]
+File: images/opt-18.pdf Graphic file (type pdf)
+<use images/opt-18.pdf>
+ [294]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [295]
+File: images/opt-10.pdf Graphic file (type pdf)
+<use images/opt-10.pdf>
+File: images/lense-tu-path.pdf Graphic file (type pdf)
+<use images/lense-tu-path.pdf>
+
+[296] [297]
+File: images/opt-11.pdf Graphic file (type pdf)
+<use images/opt-11.pdf>
+File: images/opt-13.pdf Graphic file (type pdf)
+<use images/opt-13.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [298]
+File: images/opt-17.pdf Graphic file (type pdf)
+<use images/opt-17.pdf>
+
+[299]
+File: images/lense-comples-problem.pdf Graphic file (type pdf)
+<use images/lense-comples-problem.pdf>
+ [300]
+File: images/lense-group-problem.pdf Graphic file (type pdf)
+<use images/lense-group-problem.pdf>
+File: images/opt-14.pdf Graphic file (type pdf)
+<use images/opt-14.pdf>
+ [301]
+File: images/enlarge-lense.pdf Graphic file (type pdf)
+<use images/enlarge-lense.pdf>
+ [302]
+File: images/opt-16.pdf Graphic file (type pdf)
+<use images/opt-16.pdf>
+ [303]
+File: images/opt-12.pdf Graphic file (type pdf)
+<use images/opt-12.pdf>
+ [304]
+File: images/rainbow.pdf Graphic file (type pdf)
+<use images/rainbow.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [305])
+[306]
+\openout2 = `calculus/calculus.aux'.
+
+ (./calculus/calculus.tex
+第十三章
+[307
+
+
+
+]
+Underfull \vbox (badness 6364) has occurred while \output is active []
+
+ [308]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [309]
+File: images/motion-44.pdf Graphic file (type pdf)
+<use images/motion-44.pdf>
+
+[310]
+File: images/cal-1.pdf Graphic file (type pdf)
+<use images/cal-1.pdf>
+File: images/cal-2.pdf Graphic file (type pdf)
+<use images/cal-2.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [311]
+File: images/cal-3.pdf Graphic file (type pdf)
+<use images/cal-3.pdf>
+File: images/cal-4.pdf Graphic file (type pdf)
+<use images/cal-4.pdf>
+
+[312] [313]
+File: images/cal-6.pdf Graphic file (type pdf)
+<use images/cal-6.pdf>
+File: images/cal-7.pdf Graphic file (type pdf)
+<use images/cal-7.pdf>
+
+Overfull \hbox (2.33974pt too wide) in paragraph at lines 312--322
+[][] [] 
+ []
+
+File: images/cal-8.pdf Graphic file (type pdf)
+<use images/cal-8.pdf>
+[314]
+File: images/cal-9.pdf Graphic file (type pdf)
+<use images/cal-9.pdf>
+File: images/cal-10.pdf Graphic file (type pdf)
+<use images/cal-10.pdf>
+
+Underfull \vbox (badness 4366) has occurred while \output is active []
+
+ [315]
+[316]
+File: images/cal-11.pdf Graphic file (type pdf)
+<use images/cal-11.pdf>
+ [317]
+File: images/cal-12.pdf Graphic file (type pdf)
+<use images/cal-12.pdf>
+ [318]
+File: images/cal-13.pdf Graphic file (type pdf)
+<use images/cal-13.pdf>
+ [319]
+File: images/cal-14.pdf Graphic file (type pdf)
+<use images/cal-14.pdf>
+File: images/cal-15.pdf Graphic file (type pdf)
+<use images/cal-15.pdf>
+ [320]
+File: images/cal-16.pdf Graphic file (type pdf)
+<use images/cal-16.pdf>
+ [321]
+File: images/cal-17.pdf Graphic file (type pdf)
+<use images/cal-17.pdf>
+ [322] [323]
+File: images/cal-18.pdf Graphic file (type pdf)
+<use images/cal-18.pdf>
+File: images/cal-19.pdf Graphic file (type pdf)
+<use images/cal-19.pdf>
+ [324]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [325]
+File: images/cal-20.pdf Graphic file (type pdf)
+<use images/cal-20.pdf>
+File: images/cal-21.pdf Graphic file (type pdf)
+<use images/cal-21.pdf>
+
+[326]) [327]
+\openout2 = `elec-mag-theory/static-elec.aux'.
+
+ (./elec-mag-theory/static-elec.tex [328
+
+
+
+]
+第十四章
+[329]
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
+ [330]
+File: images/elec-problem-0.pdf Graphic file (type pdf)
+<use images/elec-problem-0.pdf>
+
+[331] [332] [333]
+File: images/elec-problem-05.pdf Graphic file (type pdf)
+<use images/elec-problem-05.pdf>
+File: images/elec-problem-2.pdf Graphic file (type pdf)
+<use images/elec-problem-2.pdf>
+File: images/elec-problem-3.pdf Graphic file (type pdf)
+<use images/elec-problem-3.pdf>
+ [334]
+Missing character: There is no ， in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+ [335]
+Underfull \vbox (badness 7451) has occurred while \output is active []
+
+ [336]
+File: images/elec-problem-4.pdf Graphic file (type pdf)
+<use images/elec-problem-4.pdf>
+File: images/elec-problem-5.pdf Graphic file (type pdf)
+<use images/elec-problem-5.pdf>
+
+[337] [338] [339] [340]
+File: images/elec-problem-11.pdf Graphic file (type pdf)
+<use images/elec-problem-11.pdf>
+ [341]
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+ [342]
+File: images/elec-problem-6.pdf Graphic file (type pdf)
+<use images/elec-problem-6.pdf>
+File: images/elec-problem-1.pdf Graphic file (type pdf)
+<use images/elec-problem-1.pdf>
+File: images/elec-problem-10.pdf Graphic file (type pdf)
+<use images/elec-problem-10.pdf>
+ [343]
+File: images/elec-problem-9.pdf Graphic file (type pdf)
+<use images/elec-problem-9.pdf>
+File: images/elec-problem-7.pdf Graphic file (type pdf)
+<use images/elec-problem-7.pdf>
+ [344]
+File: images/elec-problem-8.pdf Graphic file (type pdf)
+<use images/elec-problem-8.pdf>
+File: images/elec-problem-24.pdf Graphic file (type pdf)
+<use images/elec-problem-24.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [345]
+[346] [347]
+Underfull \vbox (badness 3758) has occurred while \output is active []
+
+ [348]
+File: images/elec-problem-13.pdf Graphic file (type pdf)
+<use images/elec-problem-13.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [349]
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/elec-problem-12.pdf Graphic file (type pdf)
+<use images/elec-problem-12.pdf>
+
+[350]
+File: images/elec-img-problem1.pdf Graphic file (type pdf)
+<use images/elec-img-problem1.pdf>
+File: images/charge-image.pdf Graphic file (type pdf)
+<use images/charge-image.pdf>
+ [351]
+File: images/elec-problem-14.pdf Graphic file (type pdf)
+<use images/elec-problem-14.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [352]
+[353] [354]
+File: images/elec-problem-16.pdf Graphic file (type pdf)
+<use images/elec-problem-16.pdf>
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/elec-problem-47.pdf Graphic file (type pdf)
+<use images/elec-problem-47.pdf>
+ [355]
+File: images/elec-problem-19.pdf Graphic file (type pdf)
+<use images/elec-problem-19.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [356]
+[357]
+File: images/elec-problem-15.pdf Graphic file (type pdf)
+<use images/elec-problem-15.pdf>
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/elec-problem-17.pdf Graphic file (type pdf)
+<use images/elec-problem-17.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [358]
+File: images/elec-problem-18.pdf Graphic file (type pdf)
+<use images/elec-problem-18.pdf>
+
+[359]
+File: images/elec-problem-23.pdf Graphic file (type pdf)
+<use images/elec-problem-23.pdf>
+ [360]
+File: images/alt-current-6.pdf Graphic file (type pdf)
+<use images/alt-current-6.pdf>
+File: images/elec-problem-20.pdf Graphic file (type pdf)
+<use images/elec-problem-20.pdf>
+File: images/elec-problem-22.pdf Graphic file (type pdf)
+<use images/elec-problem-22.pdf>
+ [361]) [362]
+\openout2 = `elec-mag-theory/elec-current.aux'.
+
+ (./elec-mag-theory/elec-current.tex
+第十五章
+[363
+
+
+
+]
+File: images/elec-current-1.pdf Graphic file (type pdf)
+<use images/elec-current-1.pdf>
+ [364]
+Underfull \vbox (badness 1342) has occurred while \output is active []
+
+ [365]
+Missing character: There is no 。 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+
+[366] [367]
+Missing character: There is no ， in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+
+Underfull \vbox (badness 1286) has occurred while \output is active []
+
+ [368])
+[369]
+\openout2 = `elec-mag-theory/static-mag.aux'.
+
+ (./elec-mag-theory/static-mag.tex [370
+
+
+
+]
+第十六章
+[371]
+File: images/mag-7.pdf Graphic file (type pdf)
+<use images/mag-7.pdf>
+ [372]
+File: images/mag-27.pdf Graphic file (type pdf)
+<use images/mag-27.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [373]
+File: images/mag-12.pdf Graphic file (type pdf)
+<use images/mag-12.pdf>
+
+[374]
+File: images/mag-8.pdf Graphic file (type pdf)
+<use images/mag-8.pdf>
+File: images/mag-13.pdf Graphic file (type pdf)
+<use images/mag-13.pdf>
+ [375]
+File: images/mag-30.pdf Graphic file (type pdf)
+<use images/mag-30.pdf>
+File: images/mag-31.pdf Graphic file (type pdf)
+<use images/mag-31.pdf>
+ [376]
+File: images/mag-37.pdf Graphic file (type pdf)
+<use images/mag-37.pdf>
+ [377] [378]
+File: images/mag-38.pdf Graphic file (type pdf)
+<use images/mag-38.pdf>
+ [379]
+File: images/mag-11.pdf Graphic file (type pdf)
+<use images/mag-11.pdf>
+ [380]
+File: images/mag-9.pdf Graphic file (type pdf)
+<use images/mag-9.pdf>
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+ [381]
+File: images/mag-10.pdf Graphic file (type pdf)
+<use images/mag-10.pdf>
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/mag-21.pdf Graphic file (type pdf)
+<use images/mag-21.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [382]
+File: images/mag-6.pdf Graphic file (type pdf)
+<use images/mag-6.pdf>
+
+Underfull \vbox (badness 1616) has occurred while \output is active []
+
+ [383]
+File: images/mag-5.pdf Graphic file (type pdf)
+<use images/mag-5.pdf>
+
+[384]
+File: images/biot-savart-law.pdf Graphic file (type pdf)
+<use images/biot-savart-law.pdf>
+ [385]
+File: images/mag-36.pdf Graphic file (type pdf)
+<use images/mag-36.pdf>
+ [386]) [387]
+\openout2 = `elec-mag-theory/mag-induction.aux'.
+
+ (./elec-mag-theory/mag-induction.tex [388
+
+
+
+]
+第十七章
+File: images/mag-3.pdf Graphic file (type pdf)
+<use images/mag-3.pdf>
+[389]
+File: images/mag-1.pdf Graphic file (type pdf)
+<use images/mag-1.pdf>
+ [390]
+File: images/mag-14.pdf Graphic file (type pdf)
+<use images/mag-14.pdf>
+File: images/mag-15.pdf Graphic file (type pdf)
+<use images/mag-15.pdf>
+
+Underfull \vbox (badness 6758) has occurred while \output is active []
+
+ [391]
+Overfull \hbox (2.57607pt too wide) detected at line 136
+\OML/cmm/m/it/10.53937 A:[][];  B:[][] C:[][] [][]
+ []
+
+File: images/mag-32.pdf Graphic file (type pdf)
+<use images/mag-32.pdf>
+File: images/mag-25.pdf Graphic file (type pdf)
+<use images/mag-25.pdf>
+[392]
+File: images/mag-16.pdf Graphic file (type pdf)
+<use images/mag-16.pdf>
+File: images/mag-43.pdf Graphic file (type pdf)
+<use images/mag-43.pdf>
+ [393]
+File: images/mag-17.pdf Graphic file (type pdf)
+<use images/mag-17.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [394]
+File: images/mag-29.pdf Graphic file (type pdf)
+<use images/mag-29.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [395]
+File: images/mag-2.pdf Graphic file (type pdf)
+<use images/mag-2.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [396]
+Missing character: There is no ⑴ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ⑵ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/mag-34.pdf Graphic file (type pdf)
+<use images/mag-34.pdf>
+
+Underfull \vbox (badness 3635) has occurred while \output is active []
+
+ [397]
+File: images/mag-33.pdf Graphic file (type pdf)
+<use images/mag-33.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [398]
+File: images/mag-23.pdf Graphic file (type pdf)
+<use images/mag-23.pdf>
+
+[399]
+File: images/mag-35.pdf Graphic file (type pdf)
+<use images/mag-35.pdf>
+File: images/mag-18.pdf Graphic file (type pdf)
+<use images/mag-18.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [400]
+
+LaTeX Font Warning: Font shape `TU/KaiTi(0)/bx/n' undefined
+(Font)              using `TU/KaiTi(0)/m/n' instead on input line 441.
+
+File: images/mag-19.pdf Graphic file (type pdf)
+<use images/mag-19.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [401]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [402]
+File: images/mag-28.pdf Graphic file (type pdf)
+<use images/mag-28.pdf>
+
+[403]
+File: images/mag-39.pdf Graphic file (type pdf)
+<use images/mag-39.pdf>
+File: images/3-2.pdf Graphic file (type pdf)
+<use images/3-2.pdf>
+ [404]
+File: images/mag-22.pdf Graphic file (type pdf)
+<use images/mag-22.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [405]
+[406]
+File: images/mag-26.pdf Graphic file (type pdf)
+<use images/mag-26.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [407]
+Underfull \vbox (badness 5726) has occurred while \output is active []
+
+ [408]
+File: images/mag-41.pdf Graphic file (type pdf)
+<use images/mag-41.pdf>
+File: images/mag-24.pdf Graphic file (type pdf)
+<use images/mag-24.pdf>
+
+[409]
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/mag-40.pdf Graphic file (type pdf)
+<use images/mag-40.pdf>
+ [410]) [411]
+\openout2 = `elec-mag-theory/alt-current.aux'.
+
+ (./elec-mag-theory/alt-current.tex [412
+
+
+
+]
+第十八章
+File: images/mag-20.pdf Graphic file (type pdf)
+<use images/mag-20.pdf>
+[413]
+File: images/alt-current-4.pdf Graphic file (type pdf)
+<use images/alt-current-4.pdf>
+ [414]
+File: images/alt-current-5.pdf Graphic file (type pdf)
+<use images/alt-current-5.pdf>
+File: images/alt-current-1.pdf Graphic file (type pdf)
+<use images/alt-current-1.pdf>
+Missing character: There is no ， in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+ [415]
+File: images/alt-current-2.pdf Graphic file (type pdf)
+<use images/alt-current-2.pdf>
+ [416]
+File: images/alt-current-3.pdf Graphic file (type pdf)
+<use images/alt-current-3.pdf>
+
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [417]
+[418]
+Missing character: There is no ， in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/mag-42.pdf Graphic file (type pdf)
+<use images/mag-42.pdf>
+ [419]
+File: images/alt-current-7.pdf Graphic file (type pdf)
+<use images/alt-current-7.pdf>
+ [420]
+File: images/alt-current-8.pdf Graphic file (type pdf)
+<use images/alt-current-8.pdf>
+File: images/alt-current-9.pdf Graphic file (type pdf)
+<use images/alt-current-9.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [421])
+[422]
+\openout2 = `elec-mag-theory/em-wave.aux'.
+
+ (./elec-mag-theory/em-wave.tex
+第十九章
+File: images/em-theory-1.pdf Graphic file (type pdf)
+<use images/em-theory-1.pdf>
+File: images/em-theory-2.pdf Graphic file (type pdf)
+<use images/em-theory-2.pdf>
+[423
+
+
+
+] [424] [425]
+File: images/em-theory-5.pdf Graphic file (type pdf)
+<use images/em-theory-5.pdf>
+ [426]
+File: images/em-theory-6.pdf Graphic file (type pdf)
+<use images/em-theory-6.pdf>
+ [427]
+File: images/em-theory-3.pdf Graphic file (type pdf)
+<use images/em-theory-3.pdf>
+ [428] [429]) [430]
+\openout2 = `elec-mag-theory/wave-optics.aux'.
+
+
+(./elec-mag-theory/wave-optics.tex
+第二十章
+[431
+
+
+
+]
+File: images/wave-optics-2.pdf Graphic file (type pdf)
+<use images/wave-optics-2.pdf>
+ [432] [433]
+File: images/wave-optics-5.pdf Graphic file (type pdf)
+<use images/wave-optics-5.pdf>
+Missing character: There is no 、 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/wave-optics-1.pdf Graphic file (type pdf)
+<use images/wave-optics-1.pdf>
+
+Underfull \vbox (badness 3758) has occurred while \output is active []
+
+ [434]
+File: images/wave-1.pdf Graphic file (type pdf)
+<use images/wave-1.pdf>
+File: images/wave-optics-10.pdf Graphic file (type pdf)
+<use images/wave-optics-10.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [435]
+File: images/wave-optics-9.pdf Graphic file (type pdf)
+<use images/wave-optics-9.pdf>
+
+[436]
+File: images/wave-optics-4.pdf Graphic file (type pdf)
+<use images/wave-optics-4.pdf>
+ [437]
+File: images/wave-optics-3.pdf Graphic file (type pdf)
+<use images/wave-optics-3.pdf>
+ [438]
+File: images/wave-optics-8.pdf Graphic file (type pdf)
+<use images/wave-optics-8.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [439]
+Missing character: There is no 上 in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+File: images/wave-optics-11.pdf Graphic file (type pdf)
+<use images/wave-optics-11.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [440]
+File: images/wave-optics-6.pdf Graphic file (type pdf)
+<use images/wave-optics-6.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [441]
+Underfull \vbox (badness 1668) has occurred while \output is active []
+
+ [442]
+File: images/em-theory-4.pdf Graphic file (type pdf)
+<use images/em-theory-4.pdf>
+
+[443]
+File: images/wave-optics-7.pdf Graphic file (type pdf)
+<use images/wave-optics-7.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [444])
+[445]
+\openout2 = `morden/relativity.aux'.
+
+ (./morden/relativity.tex [446
+
+
+
+]
+第二十一章
+File: images/relativity-4.pdf Graphic file (type pdf)
+<use images/relativity-4.pdf>
+File: images/relativity-5.pdf Graphic file (type pdf)
+<use images/relativity-5.pdf>
+[447] [448]
+File: images/relativity-6.pdf Graphic file (type pdf)
+<use images/relativity-6.pdf>
+ [449]
+File: images/relativity-3.pdf Graphic file (type pdf)
+<use images/relativity-3.pdf>
+ [450] [451] [452] [453]
+File: images/relativity-8.pdf Graphic file (type pdf)
+<use images/relativity-8.pdf>
+File: images/relativity-7.pdf Graphic file (type pdf)
+<use images/relativity-7.pdf>
+ [454] [455] [456]
+File: images/relativity-1.pdf Graphic file (type pdf)
+<use images/relativity-1.pdf>
+File: images/relativity-2.pdf Graphic file (type pdf)
+<use images/relativity-2.pdf>
+
+Underfull \vbox (badness 2237) has occurred while \output is active []
+
+ [457]
+[458] [459] [460]
+Overfull \hbox (2.19676pt too wide) in paragraph at lines 521--538
+\OT1/cmr/m/n/10.53937 93\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 9063[]$\T
+U/KaiTi(0)/m/n/10.53937 ；| $\OML/cmm/m/it/10.53937 m\OT1/cmr/m/n/10.53937 ([][]
+) = 139\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 905[]$\TU/KaiTi(0)/m/n/10.
+53937 ；| $\OML/cmm/m/it/10.53937 m\OT1/cmr/m/n/10.53937 ([]\OML/cmm/m/it/10.539
+37 n\OT1/cmr/m/n/10.53937 ) = 1\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 00
+867[]$\TU/KaiTi(0)/m/n/10.53937 ；|  其 中 $\OML/cmm/m/it/10.53937 u$ \TU/KaiTi(0)
+/m/n/10.53937 为 原 子 单 位 $\OT1/cmr/m/n/10.53937 1\OML/cmm/m/it/10.53937 u \OT1/c
+mr/m/n/10.53937 = 931\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 502[]$\TU/Ka
+iTi(0)/m/n/10.53937 。|
+ []
+
+[461]
+Underfull \vbox (badness 1946) has occurred while \output is active []
+
+ [462]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [463]
+Overfull \hbox (13.47849pt too wide) in paragraph at lines 694--696
+[]\TU/SimSun(0)/m/n/10.53937 假 设 在 $\OML/cmm/m/it/10.53937 S$ \TU/SimSun(0)/m/n
+/10.53937 系 当 中 在 时 间 $\OML/cmm/m/it/10.53937 t$\TU/SimSun(0)/m/n/10.53937 ，|  
+坐 标 $\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 x; y; z\OT1/cmr/m/n/10.53937
+ )$ \TU/SimSun(0)/m/n/10.53937 处 存 在 一 个 电 场，|  它 的 三 个 分 量 分 别 为 $\OT1/cmr/m/n
+/10.53937 (\OML/cmm/m/it/10.53937 E[]; E[]; E[]\OT1/cmr/m/n/10.53937 )$\TU/SimS
+un(0)/m/n/10.53937 ，|
+ []
+
+[464]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [465])
+[466]
+\openout2 = `morden/particle.aux'.
+
+ (./morden/particle.tex
+第二十二章
+File: images/particle-5.pdf Graphic file (type pdf)
+<use images/particle-5.pdf>
+[467
+
+
+
+] [468]
+File: images/particle-6.pdf Graphic file (type pdf)
+<use images/particle-6.pdf>
+ [469]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [470]
+Underfull \hbox (badness 10000) in paragraph at lines 157--166
+
+ []
+
+[471]
+File: images/particle-8.pdf Graphic file (type pdf)
+<use images/particle-8.pdf>
+ [472]
+Underfull \vbox (badness 7907) has occurred while \output is active []
+
+ [473]
+File: images/particle-11.pdf Graphic file (type pdf)
+<use images/particle-11.pdf>
+
+[474]
+File: images/particle-1.pdf Graphic file (type pdf)
+<use images/particle-1.pdf>
+ [475]
+File: images/particle-2.pdf Graphic file (type pdf)
+<use images/particle-2.pdf>
+File: images/particle-3.pdf Graphic file (type pdf)
+<use images/particle-3.pdf>
+ [476]
+File: images/particle-12.pdf Graphic file (type pdf)
+<use images/particle-12.pdf>
+File: images/particle-13.pdf Graphic file (type pdf)
+<use images/particle-13.pdf>
+ [477]
+Underfull \vbox (badness 3907) has occurred while \output is active []
+
+ [478]
+[479]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [480]
+File: images/particle-4.pdf Graphic file (type pdf)
+<use images/particle-4.pdf>
+
+[481]
+File: images/particle-7.pdf Graphic file (type pdf)
+<use images/particle-7.pdf>
+File: images/particle-9.pdf Graphic file (type pdf)
+<use images/particle-9.pdf>
+
+Underfull \vbox (badness 4242) has occurred while \output is active []
+
+ [482]
+File: images/particle-10.pdf Graphic file (type pdf)
+<use images/particle-10.pdf>
+
+[483]) [484]
+\openout2 = `calculus/smallAnalysis.aux'.
+
+ (./calculus/smallAnalysis.tex
+第二十三章
+File: images/smallAna-1.pdf Graphic file (type pdf)
+<use images/smallAna-1.pdf>
+[485
+
+
+
+]
+File: images/smallAna-2.pdf Graphic file (type pdf)
+<use images/smallAna-2.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [486]
+File: images/smallAna-3.pdf Graphic file (type pdf)
+<use images/smallAna-3.pdf>
+
+[487]
+File: images/smallAna-4.pdf Graphic file (type pdf)
+<use images/smallAna-4.pdf>
+File: images/smallAna-5.pdf Graphic file (type pdf)
+<use images/smallAna-5.pdf>
+ [488]
+File: images/smallAna-7.pdf Graphic file (type pdf)
+<use images/smallAna-7.pdf>
+File: images/smallAna-8.pdf Graphic file (type pdf)
+<use images/smallAna-8.pdf>
+ [489]
+File: images/smallAna-6.pdf Graphic file (type pdf)
+<use images/smallAna-6.pdf>
+ [490]
+File: images/smallAna-9.pdf Graphic file (type pdf)
+<use images/smallAna-9.pdf>
+ [491]
+File: images/smallAna-14.pdf Graphic file (type pdf)
+<use images/smallAna-14.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [492]
+Underfull \vbox (badness 4024) has occurred while \output is active []
+
+ [493])
+[494]
+\openout2 = `problems/problems.aux'.
+
+ (./problems/problems.tex
+第二十四章
+File: images/problem-1.pdf Graphic file (type pdf)
+<use images/problem-1.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [495
+
+
+
+]
+Underfull \vbox (badness 1147) has occurred while \output is active []
+
+ [496]
+File: images/problem-2.pdf Graphic file (type pdf)
+<use images/problem-2.pdf>
+Missing character: There is no － in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=DFLT;mapping=tex-text;!
+
+[497]
+File: images/problem-3.pdf Graphic file (type pdf)
+<use images/problem-3.pdf>
+ [498]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [499]
+File: images/problem-4.pdf Graphic file (type pdf)
+<use images/problem-4.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [500]
+File: images/problem-5.pdf Graphic file (type pdf)
+<use images/problem-5.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [501]
+File: images/problem-6.pdf Graphic file (type pdf)
+<use images/problem-6.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [502]
+Underfull \vbox (badness 4403) has occurred while \output is active []
+
+ [503]
+File: images/problem-7.pdf Graphic file (type pdf)
+<use images/problem-7.pdf>
+
+[504]
+File: images/problem-8.pdf Graphic file (type pdf)
+<use images/problem-8.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [505])
+[506]
+\openout2 = `appendix/app.aux'.
+
+ (./appendix/app.tex [507
+
+
+
+] [508]) [509]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 174.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 174.
+ (./lectures_olympics.aux
+(./perface/index.aux) (./dynamics/motion.aux) (./dynamics/static-force.aux)
+(./dynamics/newton.aux) (./dynamics/momentum.aux) (./dynamics/energy.aux)
+(./dynamics/angular-momentum.aux) (./dynamics/gravity.aux)
+(./dynamics/oscillation-wave.aux) (./dynamics/rigid-body.aux)
+(./thermol/thermol.aux) (./geo-optics/geo-optics.aux) (./calculus/calculus.aux)
+(./elec-mag-theory/static-elec.aux) (./elec-mag-theory/elec-current.aux)
+(./elec-mag-theory/static-mag.aux) (./elec-mag-theory/mag-induction.aux)
+(./elec-mag-theory/alt-current.aux) (./elec-mag-theory/em-wave.aux)
+(./elec-mag-theory/wave-optics.aux) (./morden/relativity.aux)
+(./morden/particle.aux) (./calculus/smallAnalysis.aux) (./problems/problems.aux
+) (./appendix/app.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 174.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 174.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.47188pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 174.
+ ) 
+Here is how much of TeX's memory you used:
+ 35005 strings out of 493005
+ 749192 string characters out of 6137947
+ 731322 words of memory out of 5000000
+ 38028 multiletter control sequences out of 15000+600000
+ 536195 words of font info for 96 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 57i,12n,73p,10457b,953s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on lectures_olympics.xdv (509 pages, 4614396 bytes).
